@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ACE4432C179079EA00B78691 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432B179079EA00B78691 /* UIKit.framework */; };
+		ACE4432E179079EA00B78691 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432D179079EA00B78691 /* Foundation.framework */; };
+		ACE44330179079EA00B78691 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432F179079EA00B78691 /* CoreGraphics.framework */; };
+		ACE44336179079EA00B78691 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ACE44334179079EA00B78691 /* InfoPlist.strings */; };
+		ACE44338179079EA00B78691 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE44337179079EA00B78691 /* main.m */; };
+		ACE4433C179079EA00B78691 /* mhAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4433B179079EA00B78691 /* mhAppDelegate.m */; };
+		ACE4433E179079EA00B78691 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE4433D179079EA00B78691 /* Default.png */; };
+		ACE44340179079EA00B78691 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE4433F179079EA00B78691 /* Default@2x.png */; };
+		ACE44342179079EA00B78691 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE44341179079EA00B78691 /* Default-568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		ACE44328179079EA00B78691 /* MHDR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHDR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACE4432B179079EA00B78691 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		ACE4432D179079EA00B78691 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		ACE4432F179079EA00B78691 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		ACE44333179079EA00B78691 /* MHDR-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MHDR-Info.plist"; sourceTree = "<group>"; };
+		ACE44335179079EA00B78691 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		ACE44337179079EA00B78691 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		ACE44339179079EA00B78691 /* MHDR-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MHDR-Prefix.pch"; sourceTree = "<group>"; };
+		ACE4433A179079EA00B78691 /* mhAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mhAppDelegate.h; sourceTree = "<group>"; };
+		ACE4433B179079EA00B78691 /* mhAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mhAppDelegate.m; sourceTree = "<group>"; };
+		ACE4433D179079EA00B78691 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		ACE4433F179079EA00B78691 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		ACE44341179079EA00B78691 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACE44325179079EA00B78691 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACE4432C179079EA00B78691 /* UIKit.framework in Frameworks */,
+				ACE4432E179079EA00B78691 /* Foundation.framework in Frameworks */,
+				ACE44330179079EA00B78691 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ACE4431F179079EA00B78691 = {
+			isa = PBXGroup;
+			children = (
+				ACE44331179079EA00B78691 /* MHDR */,
+				ACE4432A179079EA00B78691 /* Frameworks */,
+				ACE44329179079EA00B78691 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ACE44329179079EA00B78691 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACE44328179079EA00B78691 /* MHDR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACE4432A179079EA00B78691 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ACE4432B179079EA00B78691 /* UIKit.framework */,
+				ACE4432D179079EA00B78691 /* Foundation.framework */,
+				ACE4432F179079EA00B78691 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ACE44331179079EA00B78691 /* MHDR */ = {
+			isa = PBXGroup;
+			children = (
+				ACE4433A179079EA00B78691 /* mhAppDelegate.h */,
+				ACE4433B179079EA00B78691 /* mhAppDelegate.m */,
+				ACE44332179079EA00B78691 /* Supporting Files */,
+			);
+			path = MHDR;
+			sourceTree = "<group>";
+		};
+		ACE44332179079EA00B78691 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACE44333179079EA00B78691 /* MHDR-Info.plist */,
+				ACE44334179079EA00B78691 /* InfoPlist.strings */,
+				ACE44337179079EA00B78691 /* main.m */,
+				ACE44339179079EA00B78691 /* MHDR-Prefix.pch */,
+				ACE4433D179079EA00B78691 /* Default.png */,
+				ACE4433F179079EA00B78691 /* Default@2x.png */,
+				ACE44341179079EA00B78691 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACE44327179079EA00B78691 /* MHDR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACE44345179079EA00B78691 /* Build configuration list for PBXNativeTarget "MHDR" */;
+			buildPhases = (
+				ACE44324179079EA00B78691 /* Sources */,
+				ACE44325179079EA00B78691 /* Frameworks */,
+				ACE44326179079EA00B78691 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MHDR;
+			productName = MHDR;
+			productReference = ACE44328179079EA00B78691 /* MHDR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACE44320179079EA00B78691 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = mh;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Memorial Hermann";
+			};
+			buildConfigurationList = ACE44323179079EA00B78691 /* Build configuration list for PBXProject "MHDR" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = ACE4431F179079EA00B78691;
+			productRefGroup = ACE44329179079EA00B78691 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACE44327179079EA00B78691 /* MHDR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACE44326179079EA00B78691 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACE44336179079EA00B78691 /* InfoPlist.strings in Resources */,
+				ACE4433E179079EA00B78691 /* Default.png in Resources */,
+				ACE44340179079EA00B78691 /* Default@2x.png in Resources */,
+				ACE44342179079EA00B78691 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACE44324179079EA00B78691 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACE44338179079EA00B78691 /* main.m in Sources */,
+				ACE4433C179079EA00B78691 /* mhAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		ACE44334179079EA00B78691 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACE44335179079EA00B78691 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ACE44343179079EA00B78691 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		ACE44344179079EA00B78691 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ACE44346179079EA00B78691 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MHDR/MHDR-Prefix.pch";
+				INFOPLIST_FILE = "MHDR/MHDR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		ACE44347179079EA00B78691 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MHDR/MHDR-Prefix.pch";
+				INFOPLIST_FILE = "MHDR/MHDR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACE44323179079EA00B78691 /* Build configuration list for PBXProject "MHDR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACE44343179079EA00B78691 /* Debug */,
+				ACE44344179079EA00B78691 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACE44345179079EA00B78691 /* Build configuration list for PBXNativeTarget "MHDR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACE44346179079EA00B78691 /* Debug */,
+				ACE44347179079EA00B78691 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ACE44320179079EA00B78691 /* Project object */;
+}
