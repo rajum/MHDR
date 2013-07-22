@@ -7,6 +7,9 @@
 //
 
 #import "mhAppDelegate.h"
+#import "TeamListViewController.h"
+#import "LoginViewController.h"
+
 
 @implementation mhAppDelegate
 
@@ -14,6 +17,20 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    //MainViewController *mainlvc = [[MainViewController alloc] initWithStyle:UITableViewStylePlain];
+    
+    //UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:teamlvc];
+    
+    //self.window.rootViewController = navController;
+    LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+
+    
+    //self.viewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:loginVC];
+    //self.window.rootViewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+    self.window.rootViewController = navController;
+
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
