@@ -8,6 +8,7 @@
 
 #import "MainViewController.h"
 
+
 @interface MainViewController ()
 
 @end
@@ -100,6 +101,7 @@
         TeamListViewController *teamlvc = [[TeamListViewController alloc] init];
         [self.navigationController pushViewController:teamlvc animated:YES];
     }
+    /*
     else if ([isdDRInfo isEqualToString:@"Application Portfolio Manager"])
     {
         OnCallGroupViewController *oncallGroupVC = [[OnCallGroupViewController alloc] init];
@@ -112,6 +114,12 @@
         
         [self.navigationController pushViewController:tabBarController animated:YES];
 
+    }
+     */
+    else if ([isdDRInfo isEqualToString:@"Application Portfolio Manager"])
+    {
+        APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
+        [self.navigationController pushViewController:apmGvc animated:YES];
     }
 }
 

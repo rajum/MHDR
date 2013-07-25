@@ -95,7 +95,7 @@
     OnCallDetailViewController *detailViewController = [[OnCallDetailViewController alloc] init];
      // ...
      // Pass the selected object to the new view controller.
-     [self.tabBarController.navigationController pushViewController:detailViewController animated:YES];
+     //[self.tabBarController.selectedViewController pushViewController:detailViewController animated:YES];
     
 }
 

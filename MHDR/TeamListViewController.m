@@ -21,6 +21,7 @@
 {
     [super viewDidLoad];
     self.teamMemberList = [NSMutableArray arrayWithCapacity:1];
+    [self fetchFromJsonFile];
 }
 
 -(id)initWithStyle:(UITableViewStyle)style
@@ -28,7 +29,8 @@
     self = [super initWithStyle:style];
     if(self)
     {
-        [self fetchFeed];
+        //[self fetchFeed];
+        //[self fetchFromJsonFile];
 
         self.navigationItem.title = @"Member List";
         
@@ -40,6 +42,35 @@
         
     }
     return self;
+}
+
+- (void)fetchFromJsonFile
+{
+    NSData *jsonData2 = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"members" ofType:@"json"]];
+    NSDictionary *jsonDictionaryObject = [NSJSONSerialization JSONObjectWithData:jsonData2
+                                                                         options:0
+                                                                           error:nil];
+    // For debugging purpose
+    NSLog(@"%@",jsonDictionaryObject);
+    
+    NSArray *memberList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
+    
+    self.teamMemberList = [NSMutableArray array];
+    
+    for(NSDictionary *teamMember in memberList)
+    {
+        TeamMember *member = [[TeamMember alloc] init];
+        member.Customer_ID = [teamMember objectForKey:@"CustomerID"];
+        member.Company_Name = [teamMember objectForKey:@"CompanyName"];
+        member.City = [teamMember objectForKey:@"City"];
+        
+        [self.teamMemberList addObject:member];
+    }
+    
+    //[self.tableView reloadData];
+    
+    [self displayIndexList];
+
 }
 
 -(void)fetchFeed
@@ -152,8 +183,8 @@
 - (void)connectionDidFinishLoading:(NSURLConnection *)connection
 {
     // This is just to check that we are getting the JSON Data
-    //NSString *jsonCheck = [[NSString alloc] initWithData:self.jsonData
-    //                                            encoding:NSUTF8StringEncoding];
+    NSString *jsonCheck = [[NSString alloc] initWithData:self.jsonData
+                                                encoding:NSUTF8StringEncoding];
     
     //NSLog(@"%@", jsonCheck);
     
@@ -176,6 +207,7 @@
         
         [self.teamMemberList addObject:member];
     }
+    
     
     [self displayIndexList];
     
