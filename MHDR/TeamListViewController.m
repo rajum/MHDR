@@ -16,14 +16,6 @@
 
 @synthesize teamMemberList;
 
-
--(void)viewDidLoad
-{
-    [super viewDidLoad];
-    self.teamMemberList = [NSMutableArray arrayWithCapacity:1];
-    [self fetchFromJsonFile];
-}
-
 -(id)initWithStyle:(UITableViewStyle)style
 {
     self = [super initWithStyle:style];
@@ -42,6 +34,20 @@
         
     }
     return self;
+}
+
+-(void)viewDidLoad
+{
+    [super viewDidLoad];
+    
+    // Uncomment the following line to preserve selection between presentations.
+    // self.clearsSelectionOnViewWillAppear = NO;
+    
+    // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
+    // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+
+    self.teamMemberList = [NSMutableArray arrayWithCapacity:1];
+    [self fetchFromJsonFile];
 }
 
 - (void)fetchFromJsonFile

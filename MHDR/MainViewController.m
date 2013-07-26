@@ -8,12 +8,13 @@
 
 #import "MainViewController.h"
 
-
 @interface MainViewController ()
 
 @end
 
 @implementation MainViewController
+
+
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -44,7 +45,6 @@
                       @"Disaster Recovery Plan",
                       @"DTCA Dashboard",
                       @"ISD On-Call Schedule",
-                      //@"ISD Team Members Contact Info",
                       @"Mempager",
                       @"Situation Management", nil];
     
@@ -95,13 +95,45 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     // Navigation logic may go here. Create and push another view controller.
-    NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
+    //NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
+    switch (indexPath.row) {
+        case 0:
+        {
+            TeamListViewController *teamlvc = [[TeamListViewController alloc] init];
+            [self.navigationController pushViewController:teamlvc animated:YES];
+
+            break;
+        }
+        case 1:
+        {
+            APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
+            [self.navigationController pushViewController:apmGvc animated:YES];
+
+            break;
+        }
+        case 2:
+        {
+            ASM_TSMListViewController *asmTsmLvc = [[ASM_TSMListViewController alloc]init];
+            [self.navigationController pushViewController:asmTsmLvc animated:YES];
+        }
+        case 7:
+        {
+            OnCallDatePickerViewController *onCallDpc = [[OnCallDatePickerViewController alloc]init];
+            [self.navigationController pushViewController:onCallDpc animated:YES];
+        }
+
+            
+        default:
+            break;
+    }
+    
+    /*
     if ([isdDRInfo isEqualToString:@"ISD Team Members Contact Info"])
     {
         TeamListViewController *teamlvc = [[TeamListViewController alloc] init];
         [self.navigationController pushViewController:teamlvc animated:YES];
     }
-    /*
+   
     else if ([isdDRInfo isEqualToString:@"Application Portfolio Manager"])
     {
         OnCallGroupViewController *oncallGroupVC = [[OnCallGroupViewController alloc] init];
@@ -115,12 +147,13 @@
         [self.navigationController pushViewController:tabBarController animated:YES];
 
     }
-     */
+    
     else if ([isdDRInfo isEqualToString:@"Application Portfolio Manager"])
     {
         APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
         [self.navigationController pushViewController:apmGvc animated:YES];
     }
+     */
 }
 
 @end

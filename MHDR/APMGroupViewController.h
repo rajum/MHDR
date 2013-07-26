@@ -7,12 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "APMListViewController.h"
 
 @interface APMGroupViewController : UIViewController<UIPickerViewDataSource,UIPickerViewDelegate>
 @property (strong, nonatomic) IBOutlet UIPickerView *thePickerView;
-@property (strong,nonatomic) IBOutlet UITextField *selectedCountry;
-@property (strong,nonatomic) IBOutlet UITextField *selectedCity;
+@property (strong, nonatomic) IBOutlet UILabel *selectedCountry;
+
+@property (strong, nonatomic) IBOutlet UILabel *selectedCity;
 
 @property (strong,nonatomic) NSArray *oneColumnList;
 @property (strong, nonatomic) NSArray *secondColumnList;
+
+- (IBAction)search:(id)sender;
+
 @end

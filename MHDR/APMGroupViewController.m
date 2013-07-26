@@ -89,7 +89,13 @@ return [secondColumnList objectAtIndex:row];
     self.selectedCountry.text = [secondColumnList objectAtIndex:row];
 }
 
+- (IBAction)search:(id)sender
+{
+    APMListViewController *apmLvc = [[APMListViewController alloc] initWithStyle:UITableViewStylePlain];
+    
+    [self.navigationController pushViewController:apmLvc animated:YES];
 
+}
     
     
     
