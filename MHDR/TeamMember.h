@@ -11,9 +11,15 @@
 
 @interface TeamMember : NSObject
 
-@property (strong,nonatomic) NSString *Customer_ID;
-@property (strong,nonatomic) NSString *Company_Name;
-@property (strong,nonatomic) NSString *City;
+
+@property (strong,nonatomic) NSString *LastName;
+@property (strong,nonatomic) NSString *FirstName;
+@property (strong,nonatomic) NSString *CellPhone;
+@property (strong,nonatomic) NSString *Pager;
+@property (strong,nonatomic) NSString *OfficePhone;
+@property (strong,nonatomic) NSString *HomePhone;
+
+@property (strong,nonatomic) NSString *FullName;
 
 @property NSInteger sectionNumber;
 

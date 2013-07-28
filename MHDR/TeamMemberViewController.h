@@ -13,11 +13,20 @@
 {
     __weak IBOutlet UILabel *nameField;
     
-    __weak IBOutlet UILabel *companyField;
+    __weak IBOutlet UILabel *cellPhoneField;
     
-    __weak IBOutlet UILabel *cityField;
+    __weak IBOutlet UILabel *pagerField;
+    
+    __weak IBOutlet UILabel *officePhoneField;
+    
+    __weak IBOutlet UILabel *homePhoneField;
+    
+    __weak IBOutlet UIButton *officePhoneBtn;
+    
 }
 
+
 @property (nonatomic,strong) TeamMember *member;
+- (IBAction)callPhone:(id)sender;
 
 @end

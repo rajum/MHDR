@@ -32,6 +32,7 @@
 		ACBCFC9117A2EFE0000BC639 /* ASM_TSMViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACBCFC8F17A2EFE0000BC639 /* ASM_TSMViewController.xib */; };
 		ACBCFC9417A2F009000BC639 /* ASM_TSMListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBCFC9317A2F009000BC639 /* ASM_TSMListViewController.m */; };
 		ACBCFC9717A2F385000BC639 /* ASM_TSM.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBCFC9617A2F385000BC639 /* ASM_TSM.m */; };
+		ACD772F617A492EE007ADC95 /* members2.json in Resources */ = {isa = PBXBuildFile; fileRef = ACD772F517A492EE007ADC95 /* members2.json */; };
 		ACE4432C179079EA00B78691 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432B179079EA00B78691 /* UIKit.framework */; };
 		ACE4432E179079EA00B78691 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432D179079EA00B78691 /* Foundation.framework */; };
 		ACE44330179079EA00B78691 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE4432F179079EA00B78691 /* CoreGraphics.framework */; };
@@ -86,6 +87,7 @@
 		ACBCFC9317A2F009000BC639 /* ASM_TSMListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSMListViewController.m; sourceTree = "<group>"; };
 		ACBCFC9517A2F385000BC639 /* ASM_TSM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASM_TSM.h; sourceTree = "<group>"; };
 		ACBCFC9617A2F385000BC639 /* ASM_TSM.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSM.m; sourceTree = "<group>"; };
+		ACD772F517A492EE007ADC95 /* members2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members2.json; sourceTree = "<group>"; };
 		ACE44328179079EA00B78691 /* MHDR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHDR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACE4432B179079EA00B78691 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		ACE4432D179079EA00B78691 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -170,6 +172,7 @@
 		ACB4BF141798971400132045 /* ISD Team Members */ = {
 			isa = PBXGroup;
 			children = (
+				ACD772F417A492D2007ADC95 /* Supporting Files */,
 				ACE443511790847300B78691 /* TeamJSONObjectDelegate.h */,
 				ACE4434B17907B6500B78691 /* TeamListViewController.h */,
 				ACE4434C17907B6500B78691 /* TeamListViewController.m */,
@@ -205,6 +208,14 @@
 				ACBCFC9617A2F385000BC639 /* ASM_TSM.m */,
 			);
 			name = ASM/TSM;
+			sourceTree = "<group>";
+		};
+		ACD772F417A492D2007ADC95 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACD772F517A492EE007ADC95 /* members2.json */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		ACE4431F179079EA00B78691 = {
@@ -334,6 +345,7 @@
 				ACBCFC8517A2D82C000BC639 /* APMApplicationViewController.xib in Resources */,
 				ACBCFC9117A2EFE0000BC639 /* ASM_TSMViewController.xib in Resources */,
 				AC6FA33617A3206F002FD448 /* OnCallDatePickerViewController.xib in Resources */,
+				ACD772F617A492EE007ADC95 /* members2.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

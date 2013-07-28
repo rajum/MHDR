@@ -52,7 +52,7 @@
 
 - (void)fetchFromJsonFile
 {
-    NSData *jsonData2 = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"members" ofType:@"json"]];
+    NSData *jsonData2 = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"members2" ofType:@"json"]];
     NSDictionary *jsonDictionaryObject = [NSJSONSerialization JSONObjectWithData:jsonData2
                                                                          options:0
                                                                            error:nil];
@@ -66,9 +66,14 @@
     for(NSDictionary *teamMember in memberList)
     {
         TeamMember *member = [[TeamMember alloc] init];
-        member.Customer_ID = [teamMember objectForKey:@"CustomerID"];
-        member.Company_Name = [teamMember objectForKey:@"CompanyName"];
-        member.City = [teamMember objectForKey:@"City"];
+        member.LastName = [teamMember objectForKey:@"Last Name"];
+        member.FirstName = [teamMember objectForKey:@"First Name"];
+        member.CellPhone = [teamMember objectForKey:@"Cell Phone"];
+        member.Pager = [teamMember objectForKey:@"Pager"];
+        member.OfficePhone = [teamMember objectForKey:@"Office Phone"];
+        member.HomePhone = [teamMember objectForKey:@"Home Phone"];
+        
+        member.FullName = [NSString stringWithFormat:@"%@ %@",member.FirstName,member.LastName];
         
         [self.teamMemberList addObject:member];
     }
@@ -155,8 +160,15 @@
     //TeamMember *teamMember = [self.teamMemberList objectAtIndex:indexPath.row];
     TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
-    tvCell.textLabel.text = teamMember.Company_Name;
-    tvCell.detailTextLabel.text = teamMember.City;
+    /*
+    NSString *name = [[NSString alloc]init];
+    NSArray *names = [NSArray arrayWithObjects:@"test", @"test2",nil];
+    name = [names componentsJoinedByString:@" "];
+    NSString *test2 = [NSString stringWithFormat:@"%@%@%@", @"test", @" ", @" test3"];
+    */ 
+    tvCell.textLabel.text = [NSString stringWithFormat:@"%@ %@", teamMember.LastName, teamMember.FirstName];
+    //teamMember.LastName + @" " + teamMember.FirstName;
+    tvCell.detailTextLabel.text = teamMember.OfficePhone;
     
     return tvCell;
     
@@ -172,7 +184,7 @@
     
     //Pass selected teamMember item to TeamMemberViewController object
     teamMemberVC.member = teamMember;
-    teamMemberVC.navigationItem.title = teamMember.Customer_ID;
+    teamMemberVC.navigationItem.title = teamMember.FullName;
     
     [self.navigationController pushViewController:teamMemberVC animated:YES];
     
@@ -207,10 +219,11 @@
     for(NSDictionary *teamMember in memberList)
     {
         TeamMember *member = [[TeamMember alloc] init];
+        /*
         member.Customer_ID = [teamMember objectForKey:@"CustomerID"];
         member.Company_Name = [teamMember objectForKey:@"CompanyName"];
         member.City = [teamMember objectForKey:@"City"];
-        
+        */
         [self.teamMemberList addObject:member];
     }
     
@@ -231,7 +244,7 @@
         // 1
         for(TeamMember *teamMember in teamMemberListTemp)
         {
-            NSInteger sect = [theCollation sectionForObject:teamMember collationStringSelector:@selector(City)];
+            NSInteger sect = [theCollation sectionForObject:teamMember collationStringSelector:@selector(LastName)];
             teamMember.sectionNumber = sect;
         }
         
@@ -253,10 +266,11 @@
         // 4
         for (NSMutableArray *sectionArray in sectionArrays)
         {
-            NSArray *sortedSectionArray = [theCollation sortedArrayFromArray:sectionArray collationStringSelector:@selector(City)];
+            NSArray *sortedSectionArray = [theCollation sortedArrayFromArray:sectionArray collationStringSelector:@selector(LastName)];
             [self.teamMemberList addObject:sortedSectionArray];
         }
     }
+    
     [self.tableView reloadData];
 }
 
