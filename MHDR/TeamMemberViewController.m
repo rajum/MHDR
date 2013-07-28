@@ -44,7 +44,7 @@
     officePhoneField.text = self.member.OfficePhone;
     homePhoneField.text = self.member.HomePhone;
     
-    officePhoneBtn.titleLabel.text = self.member.OfficePhone;
+    [officePhoneBtn setTitle:self.member.OfficePhone forState:UIControlStateNormal];
     
 }
 
@@ -52,11 +52,52 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+    
+    UITapGestureRecognizer *officePhoneGR = [[UITapGestureRecognizer alloc] initWithTarget:self
+                                                                                    action:@selector(officePhoneTapped)];
+    officePhoneField.userInteractionEnabled = YES;
+    [officePhoneField addGestureRecognizer:officePhoneGR];
+    
+}
+
+- (void)officePhoneTapped
+{
+    UIDevice *device = [UIDevice currentDevice];
+    if ([[device model] isEqualToString:@"iPhone"] ) {
+        NSString *officePhone = [@"tel://" stringByAppendingString:officePhoneField.text];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:officePhone]];
+    } else {
+        UIAlertView *notPermitted=[[UIAlertView alloc] initWithTitle:@"Alert" message:@"Your device doesn't support this feature." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+        [notPermitted show];
+    }
 }
 
 - (IBAction)callPhone:(id)sender
 {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"telprompt://2135554321"]];
+    UIDevice *device = [UIDevice currentDevice];
+    if ([[device model] isEqualToString:@"iPhone"] )
+    {
+        NSString *officePhone = [@"telprompt://" stringByAppendingString:officePhoneBtn.titleLabel.text]; // officePhoneBtn.titleLabel.text;
+        //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"tel:130-032-2837"]]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:officePhone]];
+    }
+    else
+    {
+        UIAlertView *notPermitted=[[UIAlertView alloc] initWithTitle:@"Alert" message:@"Your device doesn't support this feature." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+        [notPermitted show];
+        
+    }
+    /*
+    UIDevice *device = [UIDevice currentDevice];
+    if ([[device model] isEqualToString:@"iPhone"] ) {
+        NSString *phoneNumber = [@"tel://" stringByAppendingString:agencyPhone.text];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:phoneNumber]];
+    } else {
+        UIAlertView *Notpermitted=[[UIAlertView alloc] initWithTitle:@"Alert" message:@"Your device doesn't support this feature." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+        [Notpermitted show];
+    }
+    */
+    //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"telprompt://2135554321"]];
     /*
     NSString *cleanedString = [[phoneNumber componentsSeparatedByCharactersInSet:[[NSCharacterSet characterSetWithCharactersInString:@"0123456789-+()"] invertedSet]] componentsJoinedByString:@""];
     NSURL *telURL = [NSURL URLWithString:[NSString stringWithFormat:@"tel:%@", cleanedString]];
