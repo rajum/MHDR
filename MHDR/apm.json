@@ -1,0 +1,2695 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \{"GetAPM":\
+[\
+  \{\
+    "222-Care Line":"3M Codefinder",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"360 Encompass",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"911CAD",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Accreditation Manager Plus",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Accucare",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"AeroMed",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"ABC",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Application Portfolio Manager",\
+    "Chao-lin Liang":"Nancy Morrison",\
+    "Medical Records":"Support Center"\
+  \},\
+  \{\
+    "222-Care Line":"ABACUS",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Adobe Acrobat Viewer",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"APRDRG",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Attachmate Extra",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Altiris",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"ABC - IVR",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Application Change Service Request",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Account Reporting Tool",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"ACS",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"AthenaHealth",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Airstrip OB",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"Adobe Connect",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Active Directory",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Ascend Workflow",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Attainia",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"AIMS-CS8",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Alaris Systems Manager & CQI Reporter",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"AskHR",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Alternatiff",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"ArcSight ESM",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Authentidate by Inscrybe",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"ACT",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"Accutrac",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Aspect 6.6",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Aycan PACS",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Athena / Healthpost Interfaces",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Acumatica",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"AMR",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Aspyra Lab and Radiology",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Biscom",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Bioterrorism Surveillance: City of Houston",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Brentwood",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Baxa",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Blackberry",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"BMA - Bed Management Automation",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Baxter TPN Componder (NE)",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Bomgar",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"BabySteps",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"Blackline",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Blender",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Bright Horizons",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Centricity EMR",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"CBORD Food Services",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Crystal Enterprise",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Code Manager",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"CARR",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"CareEnhance",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner SurgiNet",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner ESM - Scheduling",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Chekker",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"CMI",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Crystal Reports",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Cancer Registry",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cedaron",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Radiology",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Charttrak",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Cisco VPN Client",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cisco Works 2000",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"Citrix Client",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Citrix Server",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"COGNOS",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"CVIS",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Care4",\
+    "Chao-lin Liang":"Vonceille Roberson",\
+    "Medical Records":"CARE4 CareNet"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Provision",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner PharmNet",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"COOL",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Technical Services",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"Cerner Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"CareMedic",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"CCCSpeak",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner RRD",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"ControlTX",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"C-Cure",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Cafe Menus on Web",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Crimson Clinical Advantage",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"CA Unicenter",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Clinical Notes",\
+    "Chao-lin Liang":"Vonceille Roberson",\
+    "Medical Records":"CARE4 CareNet"\
+  \},\
+  \{\
+    "222-Care Line":"Centricity Practice Solutions",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"CER",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"CodeCheck",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"ColorFlex",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Contract Management",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Centricity WEB",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Courion AccountCourier",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Codescan",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Centricity Logician EMR for MHMG",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner HomeWorks",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner RoadNotes",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Centralized Fax Solution Inbound Physician Orders",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Pathnet Millennium",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Carenet",\
+    "Chao-lin Liang":"Vonceille Roberson",\
+    "Medical Records":"CARE4 CareNet"\
+  \},\
+  \{\
+    "222-Care Line":"Centurion",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Cloverleaf Interface Engine",\
+    "Chao-lin Liang":"Anna Flores",\
+    "Medical Records":"Interface Services"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner CareAware",\
+    "Chao-lin Liang":"Anna Flores",\
+    "Medical Records":"Interface Services"\
+  \},\
+  \{\
+    "222-Care Line":"Centralized Faxing Solution - Outbound Radiology",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"CFS",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Cost Center Request Form",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"CDM & Drug Formulary Request",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Certificate Authority (CA)",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Charon",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner FirstNet",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Creative Services Request",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Concuity Clear Contracts",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Crimson Market Advantage",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"CPSI-Katy Rehab",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"CA7",\
+    "Chao-lin Liang":"Marcus Martin",\
+    "Medical Records":"Data Center Services"\
+  \},\
+  \{\
+    "222-Care Line":"Core Infrastructure",\
+    "Chao-lin Liang":"Marcus Martin",\
+    "Medical Records":"Data Center Services"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Downtime Read Only",\
+    "Chao-lin Liang":"Jon Krueger",\
+    "Medical Records":"HP_UX Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Millennium Mobile",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Cedaron APTA Connect",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Retail Markets"\
+  \},\
+  \{\
+    "222-Care Line":"Compliance 360",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Community Resources Reference",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"City of Houston Reportable Labs Interface",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Crimson Care Registry",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"COMP-IQ",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"CodeRyte",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Clean Slate",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Call Copy",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"CPS EMR and Practice Management - RBJ",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"CC Supervisor",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Bridge",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"CCC Schedule view",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Cerner Sepsis Alert",\
+    "Chao-lin Liang":"Vonceille Roberson",\
+    "Medical Records":"CARE4 CareNet"\
+  \},\
+  \{\
+    "222-Care Line":"CVM Kiosks & Patient Portal Vanguard",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Campaign Enterprise for RBJ",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"CCE - Care Fusion ( Pharmacy )",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"DocuTrak",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"DIPS",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Daily Flash Report",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Diet Manual on Web - Adult",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Dictaphone Powerscribe",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Daily Census",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Daily Revenue",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Downtime Clinical Access DTCA",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Hospital ISD"\
+  \},\
+  \{\
+    "222-Care Line":"Dynacad",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Dbar Lean Six Sigma Project Tracking",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Delphi Oasis Risk Claims System",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Directors Desk",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Diet Manual on Web - Pediatric",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"DMC-EZ",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Dell DPE Encryption",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"DICOMScan",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Dictaphone Laboratory",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"DcTrack",\
+    "Chao-lin Liang":"Marcus Martin",\
+    "Medical Records":"Data Center Services"\
+  \},\
+  \{\
+    "222-Care Line":"Dragon",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Easy Pay - Common Cents",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"ESS/MSS Emp/Mgmt Self Service",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"EPSI - Budget",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"EPSI PLA",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Exchange",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Embla - Sleep Lab",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"EasyIP",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"EMPI",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"EZ Form",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Enterprise Scheduling Outbound Calling - AOD Feed",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"eClinicalWorks",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"eScriptMessenger",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"eScription",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"E-Builder",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"EPSI - Productivity",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Endo Pro",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Endo Works",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"EZREG",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"eOrdering Scorecard",\
+    "Chao-lin Liang":"Gail Rose",\
+    "Medical Records":"eOrdering Implementation"\
+  \},\
+  \{\
+    "222-Care Line":"EventMaster",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Emergin",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Eligibility Assistance (EA)",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"eCDI",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"ecworksFTP",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"eClinicalWorks Patient Portal",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Electronic Payment Exchange",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Edifecs",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"ePrescribe",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"eDOC for Richmond Bone & Joint",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"EPX for Richmond Bone & Joint",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Endovault",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"eClinicalWorks eBO",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"EDW-Enterprise Data Warehouse",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"Cerner Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"FileNET",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"FormScape",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Faciledi",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Floor Stock - Dietary",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Freshloc",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Fastrack",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Fairwarning Audit",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"FilterFresh",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Fee Schedule Manager",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"FSV",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Goldmine Sales and Marketing",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"GENERAL CM&D INFO",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Gajema Frontline",\
+    "Chao-lin Liang":"Robert Weeks",\
+    "Medical Records":"MHIE"\
+  \},\
+  \{\
+    "222-Care Line":"GE Hemodynamics",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"GE - Telligence ADT IF",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"GHX",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Gem Web Plus",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Healthquest - Patient Management",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Healthquest - Patient Accounting",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"HealthTouch Room Service",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Healthquest",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Hartman Value Profile",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"HSP",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"http://www.mhealthbenefits.org/",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Hill Rom Nurse Call",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Hedgehog",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Healthcare Strategies",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Haemonetics",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Health Portal Solutions (HPS)",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Hephaestus Worklist for RBJ",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Home Health Fax Plus",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - PBS",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - A/P",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - HIM",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Materials Management",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Human Resources",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - HealthNet Providers",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - President's Office",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"IMPAC Radiation Therapy",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"iOffice",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Integral HRMS I-TRUST",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Identicard/Expression ID",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Integral Flex System",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"IRM Paging System and Software",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Executive Office Correspondence",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Legal",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - ISD Security",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Training Assessments",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - BioMedical Engineering",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - HIM Disclosures",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Lab Outreach",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"ImageQuest",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Cytology",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - ROI",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - Payroll",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - HR Job Descriptions",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Insurance Rules",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Intellicure Wound Care",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Ivans Lime Portal",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Insite Facesheet",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - eVue",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"ISD Customer Survey",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"InSite",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Ibex",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"InTouch Neuro Robot",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"iOrder",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"I-Recruit",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Internet Explorer 7",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"iTransact",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Inet Vista",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - HIM Export Utility",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"iRound",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Hospital ISD"\
+  \},\
+  \{\
+    "222-Care Line":"Internet Firewall",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"IQManager",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Imaging - WorkPlaceXT",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Infinitt Relay",\
+    "Chao-lin Liang":"Robert Weeks",\
+    "Medical Records":"MHIE"\
+  \},\
+  \{\
+    "222-Care Line":"Juniper SSL VPN",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"Kryptiq Secure Messaging",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Kiwi Syslog Server",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"Krames",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Knowledge Portal",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Kryptiq Patient Portal",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"LifeTech Urology",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Lab Variance",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Accounts Payable",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson EDI",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson General Ledger",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Materials Management",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Web",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Legacy",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Lifescan Datalink",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Laboratory Directory of Services",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Punchout",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Lantis",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson ProcessFlow",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Add-ins",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Lifenet STEMI",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"LRS",\
+    "Chao-lin Liang":"Jon Krueger",\
+    "Medical Records":"AIX Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"LRS/VPSX",\
+    "Chao-lin Liang":"Jon Krueger",\
+    "Medical Records":"AIX Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Business Intelligence",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Lawson Mobile Supply Chain Management",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Laboratory Corporation of America",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Language Line UC",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"MIDAS+ Infrastructures / Apps",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Medical Staff Roster Online",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Medical Staff Inquiry",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Medical Staff Reports",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MICROS Cash Registers",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"MSOW",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MestaMed",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"MSO Viewer",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Medisoft",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MedHost",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Word",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Activesync",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Internet Explorer",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Internet Information Service",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Office",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Office Viewers",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Office Project",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Visio",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"MRTG",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"MUSE",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Outlook",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"MemorialHermann.org",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"M&D Cares",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"MedKeeper",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Monarch Pro",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Mempager",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"MHHNP Secure Web Site",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Network",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"mhmd.org",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MIDAS+ Zynx",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"MIDAS+ InterQual CERMe",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"MedGraphics Pulmonary Function",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Micromedex",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Microfilm Indexing - Hermann",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Microfilm Indexing",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"MVS/ESA",\
+    "Chao-lin Liang":"Marcus Martin",\
+    "Medical Records":"Data Center Services"\
+  \},\
+  \{\
+    "222-Care Line":"Meditech",\
+    "Chao-lin Liang":"Gina Tripp",\
+    "Medical Records":"TIRR"\
+  \},\
+  \{\
+    "222-Care Line":"MHiE - LifePoint",\
+    "Chao-lin Liang":"Robert Weeks",\
+    "Medical Records":"MHIE"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Communication Server/Lync",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"MedSage",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"MiniTab",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Medfax",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"MRS - Medical Record Systems",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"MRS",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"MedSafe",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"MyActive Staffer",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft Project Server 2007 SP2",\
+    "Chao-lin Liang":"Mike Rodriguez",\
+    "Medical Records":"Project Management"\
+  \},\
+  \{\
+    "222-Care Line":"McAfee EERM",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Multum",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"MedConnect",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Physician Initiatives"\
+  \},\
+  \{\
+    "222-Care Line":"MedSafe Central",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"MHiE - Image Gateway",\
+    "Chao-lin Liang":"Robert Weeks",\
+    "Medical Records":"MHIE"\
+  \},\
+  \{\
+    "222-Care Line":"MHiE - Clinical Data Exchange",\
+    "Chao-lin Liang":"Robert Weeks",\
+    "Medical Records":"MHIE"\
+  \},\
+  \{\
+    "222-Care Line":"Muse Lite (Cardiosoft)",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Medtronic Continuous Glucose Monitor",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Milliman CareWebQI",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MPages Mobile",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Physician Initiatives"\
+  \},\
+  \{\
+    "222-Care Line":"MHealth Fax Plus",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"MHHS Network",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Milliman MedInsight",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Meridios",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Milliman XLogic",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Manage Engine Service Desk Plus",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"McKesson ClaimCheck Plus",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"McKesson PM",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"MedEvolve Practice Management",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"meridianEMR",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Manoview",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Microsoft CRM Dynamics",\
+    "Chao-lin Liang":"Gina Tripp",\
+    "Medical Records":"TIRR"\
+  \},\
+  \{\
+    "222-Care Line":"NOMAD",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"Cerner Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"Nihon Kohden",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"nFUSE",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Nurse Call - COMLinx",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"NTRACS - Burn Registy",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"NSI Doubletake",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Neurocore",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"Northeast Wellness Center Application",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"NaviCare Watchild",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"NCR Kiosks and NCR Patient Portal FOR RBJ",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Neopost Neotrak",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Navis Lite",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Openview",\
+    "Chao-lin Liang":"Christopher Kar",\
+    "Medical Records":"Network Engineering"\
+  \},\
+  \{\
+    "222-Care Line":"Occuhealth",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Omnicell Pharmacy Central",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Online Service Request",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Omega Reporter",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"On-call Schedule",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"OR Dashboard",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"SurgiNet"\
+  \},\
+  \{\
+    "222-Care Line":"OR Scheduling Request Form",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"SurgiNet"\
+  \},\
+  \{\
+    "222-Care Line":"Optivox",\
+    "Chao-lin Liang":"Vonceille Roberson",\
+    "Medical Records":"CARE4 CareNet"\
+  \},\
+  \{\
+    "222-Care Line":"Olympus",\
+    "Chao-lin Liang":"Jon Krueger",\
+    "Medical Records":"AIX Technical Services"\
+  \},\
+  \{\
+    "222-Care Line":"Online Cobra Payment",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"OHM - Pure Safety",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Payersoft",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"Payersoft HIPAA Compliance Module",\
+    "Chao-lin Liang":"Beverly Shelton",\
+    "Medical Records":"MHealth and MHMD Support"\
+  \},\
+  \{\
+    "222-Care Line":"PERQs",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Policy and Procedures Manager",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Hospital ISD"\
+  \},\
+  \{\
+    "222-Care Line":"PhysicianLINK",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Physician Initiatives"\
+  \},\
+  \{\
+    "222-Care Line":"Powerabstract",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Powerrelease",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Pyxis",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"PACS",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Pathways",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Pyxis Connect",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Patient Access Tracker",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Powerrelease- Web Disclosure",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"PIL - Partners In Learning",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Patient Direct Connect",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Pay Your Bill Online",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"PenRad",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Partners in Excellence",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"Planon FacilityOffice",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"Pyxis Scan Assist",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"PIE",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"PIL Competency Editor",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"PortfolioCenter",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"PharmPro",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"PBDS - Nurse Assessment",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Perspective",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Pyxis Supply Station",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"PixCert",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Pro Center",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"PCA",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"PediCath",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Proximity",\
+    "Chao-lin Liang":"Donna MacDonough",\
+    "Medical Records":"Physician Initiatives"\
+  \},\
+  \{\
+    "222-Care Line":"PhACTS @ MC",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Pyxis CCE - Supply",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Physician Office PACS",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"PreNatal Faxing",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"PointClick",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"PACSScan",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Primordial Radiology",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Philips Telehealth",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"PolicyTech",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Power Chart Maternity",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"PatientSecure",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"PhACTs @ SW",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"Phacts at SW",\
+    "Chao-lin Liang":"Pepper Pittman",\
+    "Medical Records":"Pharmacy"\
+  \},\
+  \{\
+    "222-Care Line":"QS Labor and Delivery",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"QS OBLink",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"Quality Center",\
+    "Chao-lin Liang":"Anna Flores",\
+    "Medical Records":"Quality Assurance"\
+  \},\
+  \{\
+    "222-Care Line":"QML",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"QAWeb",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Radiology"\
+  \},\
+  \{\
+    "222-Care Line":"Quest Diagnostics Laboratories",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"ReRes",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Reflections",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Remedy",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"ReportSafe",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"RES-Q",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Riskmaster",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Raisers Edge",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Roomfinder",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"RemedyMD Bariatric Medicine",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Rehab Productivity Tracker",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Responder Net",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"RASMAS",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"RightAnswers",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Respironics Encore Anywhere",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Remedy ITSM",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Review Room",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"RFID MobileView",\
+    "Chao-lin Liang":"Chris Rodriquez",\
+    "Medical Records":"Imaging and Data Access"\
+  \},\
+  \{\
+    "222-Care Line":"ReportExec",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Retina",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Secure Logix telephone call logging",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Shavlik Microsoft server patch management",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Support Center App",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Sensage Audit Server",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Single Sign-On Engine",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"SecureScout",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Study Track",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Sharepoint",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internet Portals"\
+  \},\
+  \{\
+    "222-Care Line":"SE OnCall Calendar",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Safeboot Device Encryption",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Softlab",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Supply Formulary & Charge Requests",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Secure1",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Symantec Endpoint",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Secure FTP",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"SendSuite",\
+    "Chao-lin Liang":"Wilmer Champ",\
+    "Medical Records":"Accounting, A/P & Budget"\
+  \},\
+  \{\
+    "222-Care Line":"Single Signon-Proximity Enabled",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"Scapa",\
+    "Chao-lin Liang":"Anna Flores",\
+    "Medical Records":"Quality Assurance"\
+  \},\
+  \{\
+    "222-Care Line":"Surgical Outcome Tracking",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"SEP",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Standing Stone",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"SMART",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"SkillCheck",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"SHP - Strategic Health Program",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Spectralink",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"ScanSnap",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Sage EMR & PM",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"SeeMore",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Transchart Web 5.1",\
+    "Chao-lin Liang":"Rafael Rodriguez",\
+    "Medical Records":"Laboratory and Ancillary Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Transfer Center Console application",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Traumabase",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Travis Cobra Software",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"TippingPoint Intrusion Prevention",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Trakker",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Technical Services - Interface",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"CSP"\
+  \},\
+  \{\
+    "222-Care Line":"Technical Services - VMS Tech Services",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"CSP"\
+  \},\
+  \{\
+    "222-Care Line":"Technical Services - CSP",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"CSP"\
+  \},\
+  \{\
+    "222-Care Line":"Tech Services - Quality",\
+    "Chao-lin Liang":"Omar Awan",\
+    "Medical Records":"CSP"\
+  \},\
+  \{\
+    "222-Care Line":"Trauma Page",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"TeraRecon",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Tissue TrackCore",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Telecom",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Telephone Systems",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Transfer Center ForeFront",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"TSystem EV",\
+    "Chao-lin Liang":"Adrian Wilhelmsen",\
+    "Medical Records":"ED - Critical Care"\
+  \},\
+  \{\
+    "222-Care Line":"Televox",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"UltraQuest",\
+    "Chao-lin Liang":"Brian Beardmore",\
+    "Medical Records":"Decision Support"\
+  \},\
+  \{\
+    "222-Care Line":"UPS - Power",\
+    "Chao-lin Liang":"Marcus Martin",\
+    "Medical Records":"Data Center Services"\
+  \},\
+  \{\
+    "222-Care Line":"UT CodeRyte Interface",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"USA Mobility",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"VAROME",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Versyss",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"VolunteerWorks",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Veritas Netbackup",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"VoiCert - Voice Tracker",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"Vocational Nursing Student Registry",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"VMWare",\
+    "Chao-lin Liang":"Craig Kline",\
+    "Medical Records":"Network Administration"\
+  \},\
+  \{\
+    "222-Care Line":"Vendor Assistance Portal",\
+    "Chao-lin Liang":"Sheila Diombala",\
+    "Medical Records":"Supply Chain"\
+  \},\
+  \{\
+    "222-Care Line":"Vendor Portal Access",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Vocera",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Vac-Seen",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"VRS (Variance Reporting System)",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Care Management"\
+  \},\
+  \{\
+    "222-Care Line":"Verisma",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Medical Records"\
+  \},\
+  \{\
+    "222-Care Line":"Visdoc Document Management",\
+    "Chao-lin Liang":"Mitch Kwartler",\
+    "Medical Records":"Physician Office Solutions ? POINT"\
+  \},\
+  \{\
+    "222-Care Line":"Voalte",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Vivify Health",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"Vivify Remote Monitoring",\
+    "Chao-lin Liang":"Kelly Pitre",\
+    "Medical Records":"Home Health"\
+  \},\
+  \{\
+    "222-Care Line":"WatchChild Labor and Delivery",\
+    "Chao-lin Liang":"Sheri Dickinson",\
+    "Medical Records":"Women Services"\
+  \},\
+  \{\
+    "222-Care Line":"Web Emulator",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Websense",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Windows 2000",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Windows XP",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Winzip 8.1",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"WITT Hemodynamics",\
+    "Chao-lin Liang":"Theresa Peel",\
+    "Medical Records":"Heart and Vascular Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Windows Vista",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Web Pre-registration",\
+    "Chao-lin Liang":"Chao-lin Liang",\
+    "Medical Records":"Patient Management"\
+  \},\
+  \{\
+    "222-Care Line":"WebPager",\
+    "Chao-lin Liang":"Hector Villarreal",\
+    "Medical Records":"Internal Development"\
+  \},\
+  \{\
+    "222-Care Line":"WinTask",\
+    "Chao-lin Liang":"Anna Flores",\
+    "Medical Records":"Quality Assurance"\
+  \},\
+  \{\
+    "222-Care Line":"Windows 7",\
+    "Chao-lin Liang":"Renee Neely",\
+    "Medical Records":"Desktop Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Wounddoc",\
+    "Chao-lin Liang":"Theresa Lund",\
+    "Medical Records":"Clinical Specialty Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"Xtend - PC based Consoles",\
+    "Chao-lin Liang":"Chad Gross",\
+    "Medical Records":"Telecom Solutions"\
+  \},\
+  \{\
+    "222-Care Line":"XactiMed-XClaim",\
+    "Chao-lin Liang":"Doug Anders",\
+    "Medical Records":"Patient Accounting"\
+  \},\
+  \{\
+    "222-Care Line":"Zix Secure Email",\
+    "Chao-lin Liang":"Randy Yates",\
+    "Medical Records":"Security"\
+  \},\
+  \{\
+    "222-Care Line":"Zip Park",\
+    "Chao-lin Liang":"Tanya Norman",\
+    "Medical Records":"Employee Compensation, Benefits, Payroll, Time & Attendance"\
+  \},\
+  \{\
+    "222-Care Line":"Zoll, RescueNet Suite",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \},\
+  \{\
+    "222-Care Line":"Zoll, Tablet PCR",\
+    "Chao-lin Liang":"ShuRon Green",\
+    "Medical Records":"TMC Applications"\
+  \}\
+]\
+\}}

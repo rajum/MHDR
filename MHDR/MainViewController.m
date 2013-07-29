@@ -37,17 +37,16 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     self.isdDRList = [NSArray arrayWithObjects:
-                      @"ISD Team Members Contact Info",
                       @"Application Portfolio Manager",
                       @"ASM / TSM Directory",
                       @"Contact Lists",
-                      @"Change Management - Event Summary",
+                      @"Change Management",
                       @"Disaster Recovery Plan",
-                      @"DTCA Dashboard",
                       @"ISD On-Call Schedule",
-                      @"Mempager",
-                      @"Situation Management", nil];
-    
+                      @"ISD Team Members Contact Info",
+                      //@"Situation Management",
+                      nil];
+                          
 }
 
 - (void)didReceiveMemoryWarning
@@ -97,31 +96,62 @@
     // Navigation logic may go here. Create and push another view controller.
     //NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
     switch (indexPath.row) {
-        case 0:
-        {
-            TeamListViewController *teamlvc = [[TeamListViewController alloc] init];
-            [self.navigationController pushViewController:teamlvc animated:YES];
-
-            break;
-        }
-        case 1:
+        case 0: // Application Portfolio Manager
         {
             APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
             [self.navigationController pushViewController:apmGvc animated:YES];
 
             break;
         }
-        case 2:
+        case 1: // ASM/TSM
         {
             ASM_TSMListViewController *asmTsmLvc = [[ASM_TSMListViewController alloc]init];
             [self.navigationController pushViewController:asmTsmLvc animated:YES];
+            
+            break;
         }
-        case 7:
+            
+        case 2: // Contact Lists
+        {
+            ContactListViewController *contactLvc = [[ContactListViewController alloc]init];
+            [self.navigationController pushViewController:contactLvc animated:YES];
+
+            
+            break;
+        }
+
+        case 3: // Change Management
+        {
+            [self loadDocument:@"ScheduleEventsSummary.pdf"];
+            
+            break;
+        }
+            
+        case 4: // Disaster Recovery Plan
+        {
+            [self loadDocument:@"DisasterRecovery.pdf"];
+            
+            break;
+        }
+
+        case 5: // ISD On Call
         {
             OnCallDatePickerViewController *onCallDpc = [[OnCallDatePickerViewController alloc]init];
             [self.navigationController pushViewController:onCallDpc animated:YES];
+            
+            break;
+        }
+            
+        
+        case 6: // ISD Team Member
+        {
+            TeamListViewController *teamlvc = [[TeamListViewController alloc] init];
+            [self.navigationController pushViewController:teamlvc animated:YES];
+            
+            break;
         }
 
+        
             
         default:
             break;
@@ -155,5 +185,34 @@
     }
      */
 }
+
+/* To do: make this utility method so that it can be shared among multiple viewcontrollers/pages */
+- (void)loadDocument:(NSString*)documentName
+{
+    UIWebView *webView = [[UIWebView alloc] initWithFrame:CGRectMake(0, 0, 320, 480)];
+    webView.tag = 55;
+    webView.scalesPageToFit = YES;
+    
+    NSString *path = [[NSBundle mainBundle] pathForResource:documentName  ofType:nil];
+    NSURL *url = [NSURL fileURLWithPath:path];
+    NSURLRequest *request = [NSURLRequest requestWithURL:url];
+    [webView loadRequest:request];
+    [self.view addSubview:webView];
+    
+    /* Close Button for webView */
+    UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+    [button setTitle:@"Close" forState:UIControlStateNormal];
+    button.frame = CGRectMake(80, 210, 160, 40);
+    [button addTarget:self action:@selector(close:) forControlEvents:UIControlEventTouchUpInside];
+    [webView addSubview:button];
+}
+
+- (IBAction)close:(id)sender {
+    
+    [[self.view viewWithTag:55] removeFromSuperview];
+    
+}
+
+
 
 @end

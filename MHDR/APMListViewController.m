@@ -42,23 +42,23 @@
 
 - (void)fetchFromJsonFile
 {
-    NSData *jsonData2 = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"members" ofType:@"json"]];
+    NSData *jsonData2 = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"apm2" ofType:@"json"]];
     NSDictionary *jsonDictionaryObject = [NSJSONSerialization JSONObjectWithData:jsonData2
                                                                          options:0
                                                                            error:nil];
     // For debugging purpose
-    NSLog(@"%@",jsonDictionaryObject);
+    //NSLog(@"%@",jsonDictionaryObject);
     
-    NSArray *appList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
+    NSArray *appList = [jsonDictionaryObject objectForKey:@"APM"];
     
     self.applicationList = [NSMutableArray array];
     
     for(NSDictionary *application in appList)
     {
         APMApplication *app = [[APMApplication alloc] init];
-        app.Customer_ID = [application objectForKey:@"CustomerID"];
-        app.Company_Name = [application objectForKey:@"CompanyName"];
-        app.City = [application objectForKey:@"City"];
+        app.Application = [application objectForKey:@"Application"];
+        app.SegmentOwner = [application objectForKey:@"SegmentOwner"];
+        app.SolutionSegment = [application objectForKey:@"SolutionSegment"];
         
         [self.applicationList addObject:app];
     }
@@ -81,7 +81,7 @@
         // 1
         for(APMApplication *application in applicationListTemp)
         {
-            NSInteger sect = [theCollation sectionForObject:application collationStringSelector:@selector(City)];
+            NSInteger sect = [theCollation sectionForObject:application collationStringSelector:@selector(Application)];
             application.sectionNumber = sect;
         }
         
@@ -103,7 +103,7 @@
         // 4
         for (NSMutableArray *sectionArray in sectionArrays)
         {
-            NSArray *sortedSectionArray = [theCollation sortedArrayFromArray:sectionArray collationStringSelector:@selector(City)];
+            NSArray *sortedSectionArray = [theCollation sortedArrayFromArray:sectionArray collationStringSelector:@selector(Application)];
             [self.applicationList addObject:sortedSectionArray];
         }
     }
@@ -172,8 +172,10 @@
     //TeamMember *teamMember = [self.teamMemberList objectAtIndex:indexPath.row];
     APMApplication *application = [[self.applicationList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
-    tvCell.textLabel.text = application.Company_Name;
-    tvCell.detailTextLabel.text = application.City;
+    tvCell.textLabel.text = application.Application;
+    tvCell.detailTextLabel.text = application.SegmentOwner;
+    //need to find way to display application SolutionSegment
+    
     
     return tvCell;
     
@@ -185,15 +187,18 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    /*
     APMApplicationViewController *applicationVC = [[APMApplicationViewController alloc] init];
     
-    //TeamMember *teamMember = [self.teamMemberList objectAtIndex:indexPath.row];
     APMApplication *application = [[self.applicationList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
-    //Pass selected teamMember item to TeamMemberViewController object
     applicationVC.application = application;
-    applicationVC.navigationItem.title = application.Customer_ID;
+    applicationVC.navigationItem.title = application.Application;
     
-    [self.navigationController pushViewController:applicationVC animated:YES];}
+    [self.navigationController pushViewController:applicationVC animated:YES];
+    */
+    
+}
+    
 
 @end

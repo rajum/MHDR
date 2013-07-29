@@ -10,9 +10,9 @@
 
 @interface APMApplication : NSObject
 
-@property (strong,nonatomic) NSString *Customer_ID;
-@property (strong,nonatomic) NSString *Company_Name;
-@property (strong,nonatomic) NSString *City;
+@property (strong,nonatomic) NSString *Application;
+@property (strong,nonatomic) NSString *SegmentOwner;
+@property (strong,nonatomic) NSString *SolutionSegment;
 
 @property NSInteger sectionNumber;
 

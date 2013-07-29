@@ -15,6 +15,9 @@
 		AC95FC2B1796F81F00D408F1 /* TeamMemberViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */; };
 		AC97828517A1C69900CA6E18 /* APMGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC97828317A1C69900CA6E18 /* APMGroupViewController.m */; };
 		AC97828617A1C69900CA6E18 /* APMGroupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC97828417A1C69900CA6E18 /* APMGroupViewController.xib */; };
+		ACB0B6E817A6C3F900611567 /* ScheduleEventsSummary.pdf in Resources */ = {isa = PBXBuildFile; fileRef = ACB0B6E717A6C3F900611567 /* ScheduleEventsSummary.pdf */; };
+		ACB0B6EC17A6C48200611567 /* DisasterRecovery.pdf in Resources */ = {isa = PBXBuildFile; fileRef = ACB0B6EB17A6C48200611567 /* DisasterRecovery.pdf */; };
+		ACB0B6F517A6F4B700611567 /* ContactListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB0B6F417A6F4B700611567 /* ContactListViewController.m */; };
 		ACB4BF031798869A00132045 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF021798869A00132045 /* MainViewController.m */; };
 		ACB4BF17179897B300132045 /* OnCallGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF16179897B300132045 /* OnCallGroupViewController.m */; };
 		ACB4BF1E1798981B00132045 /* OnCallDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF1C1798981B00132045 /* OnCallDetailViewController.m */; };
@@ -45,6 +48,10 @@
 		ACE4434D17907B6500B78691 /* TeamListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434C17907B6500B78691 /* TeamListViewController.m */; };
 		ACE443501790834900B78691 /* TeamMember.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434F1790834900B78691 /* TeamMember.m */; };
 		ACF2D22217A086E4001D10F4 /* members.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF2D22117A086E4001D10F4 /* members.json */; };
+		ACF606A217A70CBA0030A73D /* OPS_Guide_Update.doc in Resources */ = {isa = PBXBuildFile; fileRef = ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */; };
+		ACF606A317A70D330030A73D /* VendorContact.xls in Resources */ = {isa = PBXBuildFile; fileRef = ACF6069D17A701680030A73D /* VendorContact.xls */; };
+		ACF606A417A70D380030A73D /* MedicalPlazaNorth.xls in Resources */ = {isa = PBXBuildFile; fileRef = ACF6069E17A701680030A73D /* MedicalPlazaNorth.xls */; };
+		ACF606A917A725AA0030A73D /* apm2.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF606A817A725AA0030A73D /* apm2.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +67,14 @@
 		AC97828217A1C69900CA6E18 /* APMGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APMGroupViewController.h; sourceTree = "<group>"; };
 		AC97828317A1C69900CA6E18 /* APMGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APMGroupViewController.m; sourceTree = "<group>"; };
 		AC97828417A1C69900CA6E18 /* APMGroupViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APMGroupViewController.xib; sourceTree = "<group>"; };
+		ACB0B6E717A6C3F900611567 /* ScheduleEventsSummary.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ScheduleEventsSummary.pdf; sourceTree = "<group>"; };
+		ACB0B6EB17A6C48200611567 /* DisasterRecovery.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DisasterRecovery.pdf; sourceTree = "<group>"; };
+		ACB0B6EF17A6C50200611567 /* Situation Management Handbook.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Situation Management Handbook.docx"; sourceTree = "<group>"; };
+		ACB0B6F017A6C50200611567 /* OA-Onsite Admin-contacts.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OA-Onsite Admin-contacts.xlsx"; sourceTree = "<group>"; };
+		ACB0B6F117A6C50200611567 /* App Communication Plan List.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "App Communication Plan List.xlsx"; sourceTree = "<group>"; };
+		ACB0B6F217A6C50200611567 /* 2nd Tier App Comm Process.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "2nd Tier App Comm Process.docx"; sourceTree = "<group>"; };
+		ACB0B6F317A6F4B700611567 /* ContactListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactListViewController.h; sourceTree = "<group>"; };
+		ACB0B6F417A6F4B700611567 /* ContactListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactListViewController.m; sourceTree = "<group>"; };
 		ACB4BF011798869A00132045 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		ACB4BF021798869A00132045 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		ACB4BF15179897B300132045 /* OnCallGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallGroupViewController.h; sourceTree = "<group>"; };
@@ -107,6 +122,10 @@
 		ACE4434F1790834900B78691 /* TeamMember.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMember.m; sourceTree = "<group>"; };
 		ACE443511790847300B78691 /* TeamJSONObjectDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TeamJSONObjectDelegate.h; sourceTree = "<group>"; };
 		ACF2D22117A086E4001D10F4 /* members.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members.json; sourceTree = "<group>"; };
+		ACF6069D17A701680030A73D /* VendorContact.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = VendorContact.xls; sourceTree = "<group>"; };
+		ACF6069E17A701680030A73D /* MedicalPlazaNorth.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = MedicalPlazaNorth.xls; sourceTree = "<group>"; };
+		ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = OPS_Guide_Update.doc; sourceTree = "<group>"; };
+		ACF606A817A725AA0030A73D /* apm2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = apm2.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +145,7 @@
 		AC97828117A1C5FF00CA6E18 /* APM */ = {
 			isa = PBXGroup;
 			children = (
+				ACF606A517A71AA10030A73D /* Supporting Files */,
 				AC97828217A1C69900CA6E18 /* APMGroupViewController.h */,
 				AC97828317A1C69900CA6E18 /* APMGroupViewController.m */,
 				AC97828417A1C69900CA6E18 /* APMGroupViewController.xib */,
@@ -138,6 +158,77 @@
 				ACBCFC8317A2D82C000BC639 /* APMApplicationViewController.xib */,
 			);
 			name = APM;
+			sourceTree = "<group>";
+		};
+		ACB0B6E017A6C26100611567 /* ContactList */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6E117A6C27100611567 /* Supporting Files */,
+				ACB0B6F317A6F4B700611567 /* ContactListViewController.h */,
+				ACB0B6F417A6F4B700611567 /* ContactListViewController.m */,
+			);
+			name = ContactList;
+			sourceTree = "<group>";
+		};
+		ACB0B6E117A6C27100611567 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */,
+				ACF6069D17A701680030A73D /* VendorContact.xls */,
+				ACF6069E17A701680030A73D /* MedicalPlazaNorth.xls */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACB0B6E517A6C3BB00611567 /* ChangeManagement */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6E617A6C3CB00611567 /* Supporting Files */,
+			);
+			name = ChangeManagement;
+			sourceTree = "<group>";
+		};
+		ACB0B6E617A6C3CB00611567 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6E717A6C3F900611567 /* ScheduleEventsSummary.pdf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACB0B6E917A6C40400611567 /* DisasterRecovery */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6EA17A6C42A00611567 /* Supporting Files */,
+			);
+			name = DisasterRecovery;
+			sourceTree = "<group>";
+		};
+		ACB0B6EA17A6C42A00611567 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6EB17A6C48200611567 /* DisasterRecovery.pdf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACB0B6ED17A6C4C200611567 /* SituationManagement */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6EE17A6C4CC00611567 /* Supporting Files */,
+			);
+			name = SituationManagement;
+			sourceTree = "<group>";
+		};
+		ACB0B6EE17A6C4CC00611567 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0B6EF17A6C50200611567 /* Situation Management Handbook.docx */,
+				ACB0B6F017A6C50200611567 /* OA-Onsite Admin-contacts.xlsx */,
+				ACB0B6F117A6C50200611567 /* App Communication Plan List.xlsx */,
+				ACB0B6F217A6C50200611567 /* 2nd Tier App Comm Process.docx */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		ACB4BF07179895CC00132045 /* OnCall */ = {
@@ -221,8 +312,8 @@
 		ACE4431F179079EA00B78691 = {
 			isa = PBXGroup;
 			children = (
-				ACE44331179079EA00B78691 /* MHDR */,
 				ACE4432A179079EA00B78691 /* Frameworks */,
+				ACE44331179079EA00B78691 /* MHDR */,
 				ACE44329179079EA00B78691 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -248,6 +339,10 @@
 		ACE44331179079EA00B78691 /* MHDR */ = {
 			isa = PBXGroup;
 			children = (
+				ACB0B6ED17A6C4C200611567 /* SituationManagement */,
+				ACB0B6E917A6C40400611567 /* DisasterRecovery */,
+				ACB0B6E517A6C3BB00611567 /* ChangeManagement */,
+				ACB0B6E017A6C26100611567 /* ContactList */,
 				ACBCFC8617A2EEF0000BC639 /* ASM/TSM */,
 				AC97828117A1C5FF00CA6E18 /* APM */,
 				ACB4BF07179895CC00132045 /* OnCall */,
@@ -273,6 +368,14 @@
 				ACE4433D179079EA00B78691 /* Default.png */,
 				ACE4433F179079EA00B78691 /* Default@2x.png */,
 				ACE44341179079EA00B78691 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ACF606A517A71AA10030A73D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ACF606A817A725AA0030A73D /* apm2.json */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -346,6 +449,12 @@
 				ACBCFC9117A2EFE0000BC639 /* ASM_TSMViewController.xib in Resources */,
 				AC6FA33617A3206F002FD448 /* OnCallDatePickerViewController.xib in Resources */,
 				ACD772F617A492EE007ADC95 /* members2.json in Resources */,
+				ACB0B6E817A6C3F900611567 /* ScheduleEventsSummary.pdf in Resources */,
+				ACB0B6EC17A6C48200611567 /* DisasterRecovery.pdf in Resources */,
+				ACF606A217A70CBA0030A73D /* OPS_Guide_Update.doc in Resources */,
+				ACF606A317A70D330030A73D /* VendorContact.xls in Resources */,
+				ACF606A417A70D380030A73D /* MedicalPlazaNorth.xls in Resources */,
+				ACF606A917A725AA0030A73D /* apm2.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,6 +483,7 @@
 				ACBCFC9417A2F009000BC639 /* ASM_TSMListViewController.m in Sources */,
 				ACBCFC9717A2F385000BC639 /* ASM_TSM.m in Sources */,
 				AC6FA33517A3206F002FD448 /* OnCallDatePickerViewController.m in Sources */,
+				ACB0B6F517A6F4B700611567 /* ContactListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

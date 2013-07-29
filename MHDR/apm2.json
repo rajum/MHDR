@@ -1,0 +1,2699 @@
+{"APM":
+[
+  {
+    "Application":"222-Care Line",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"3M Codefinder",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"360 Encompass",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"911CAD",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Accreditation Manager Plus",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Accucare",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"AeroMed",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"ABC",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Application Portfolio Manager",
+    "SegmentOwner":"Nancy Morrison",
+    "SolutionSegment":"Support Center"
+  },
+  {
+    "Application":"ABACUS",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Adobe Acrobat Viewer",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"APRDRG",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Attachmate Extra",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Altiris",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"ABC - IVR",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Application Change Service Request",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Account Reporting Tool",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"ACS",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"AthenaHealth",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Airstrip OB",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"Adobe Connect",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Active Directory",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Ascend Workflow",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Attainia",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"AIMS-CS8",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Alaris Systems Manager & CQI Reporter",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"AskHR",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Alternatiff",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"ArcSight ESM",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Authentidate by Inscrybe",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"ACT",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"Accutrac",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Aspect 6.6",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Aycan PACS",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Athena / Healthpost Interfaces",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Acumatica",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"AMR",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Aspyra Lab and Radiology",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Biscom",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Bioterrorism Surveillance: City of Houston",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Brentwood",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Baxa",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Blackberry",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"BMA - Bed Management Automation",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Baxter TPN Componder (NE)",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Bomgar",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"BabySteps",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"Blackline",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Blender",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Bright Horizons",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Centricity EMR",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"CBORD Food Services",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Crystal Enterprise",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Code Manager",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"CARR",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"CareEnhance",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Cerner SurgiNet",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Cerner ESM - Scheduling",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Chekker",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"CMI",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Crystal Reports",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Cancer Registry",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Cedaron",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Cerner Radiology",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Charttrak",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Cisco VPN Client",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Cisco Works 2000",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"Citrix Client",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Citrix Server",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"COGNOS",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"CVIS",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Cerner Care4",
+    "SegmentOwner":"Vonceille Roberson",
+    "SolutionSegment":"CARE4 CareNet"
+  },
+  {
+    "Application":"Cerner Provision",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Cerner PharmNet",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"COOL",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Cerner Technical Services",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"Cerner Technical Services"
+  },
+  {
+    "Application":"CareMedic",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"CCCSpeak",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Cerner RRD",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"ControlTX",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"C-Cure",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Cafe Menus on Web",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Crimson Clinical Advantage",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"CA Unicenter",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Cerner Clinical Notes",
+    "SegmentOwner":"Vonceille Roberson",
+    "SolutionSegment":"CARE4 CareNet"
+  },
+  {
+    "Application":"Centricity Practice Solutions",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"CER",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"CodeCheck",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"ColorFlex",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Contract Management",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Centricity WEB",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Courion AccountCourier",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Codescan",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Centricity Logician EMR for MHMG",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Cerner HomeWorks",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Cerner RoadNotes",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Centralized Fax Solution Inbound Physician Orders",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Cerner Pathnet Millennium",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Cerner Carenet",
+    "SegmentOwner":"Vonceille Roberson",
+    "SolutionSegment":"CARE4 CareNet"
+  },
+  {
+    "Application":"Centurion",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Cloverleaf Interface Engine",
+    "SegmentOwner":"Anna Flores",
+    "SolutionSegment":"Interface Services"
+  },
+  {
+    "Application":"Cerner CareAware",
+    "SegmentOwner":"Anna Flores",
+    "SolutionSegment":"Interface Services"
+  },
+  {
+    "Application":"Centralized Faxing Solution - Outbound Radiology",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"CFS",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Cost Center Request Form",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"CDM & Drug Formulary Request",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Certificate Authority (CA)",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Charon",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Cerner FirstNet",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Creative Services Request",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Concuity Clear Contracts",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Crimson Market Advantage",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"CPSI-Katy Rehab",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"CA7",
+    "SegmentOwner":"Marcus Martin",
+    "SolutionSegment":"Data Center Services"
+  },
+  {
+    "Application":"Core Infrastructure",
+    "SegmentOwner":"Marcus Martin",
+    "SolutionSegment":"Data Center Services"
+  },
+  {
+    "Application":"Cerner Downtime Read Only",
+    "SegmentOwner":"Jon Krueger",
+    "SolutionSegment":"HP_UX Technical Services"
+  },
+  {
+    "Application":"Cerner Millennium Mobile",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Cedaron APTA Connect",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Retail Markets"
+  },
+  {
+    "Application":"Compliance 360",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Community Resources Reference",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"City of Houston Reportable Labs Interface",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Crimson Care Registry",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"COMP-IQ",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"CodeRyte",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Clean Slate",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Call Copy",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"CPS EMR and Practice Management - RBJ",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"CC Supervisor",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Cerner Bridge",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"CCC Schedule view",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Cerner Sepsis Alert",
+    "SegmentOwner":"Vonceille Roberson",
+    "SolutionSegment":"CARE4 CareNet"
+  },
+  {
+    "Application":"CVM Kiosks & Patient Portal Vanguard",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Campaign Enterprise for RBJ",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"CCE - Care Fusion ( Pharmacy )",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"DocuTrak",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"DIPS",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Daily Flash Report",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Diet Manual on Web - Adult",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Dictaphone Powerscribe",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Daily Census",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Daily Revenue",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Downtime Clinical Access DTCA",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Hospital ISD"
+  },
+  {
+    "Application":"Dynacad",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Dbar Lean Six Sigma Project Tracking",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Delphi Oasis Risk Claims System",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Directors Desk",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Diet Manual on Web - Pediatric",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"DMC-EZ",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Dell DPE Encryption",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"DICOMScan",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Dictaphone Laboratory",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"DcTrack",
+    "SegmentOwner":"Marcus Martin",
+    "SolutionSegment":"Data Center Services"
+  },
+  {
+    "Application":"Dragon",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Easy Pay - Common Cents",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"ESS/MSS Emp/Mgmt Self Service",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"EPSI - Budget",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"EPSI PLA",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Exchange",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Embla - Sleep Lab",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"EasyIP",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"EMPI",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"EZ Form",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Enterprise Scheduling Outbound Calling - AOD Feed",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"eClinicalWorks",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"eScriptMessenger",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"eScription",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"E-Builder",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"EPSI - Productivity",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Endo Pro",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Endo Works",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"EZREG",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"eOrdering Scorecard",
+    "SegmentOwner":"Gail Rose",
+    "SolutionSegment":"eOrdering Implementation"
+  },
+  {
+    "Application":"EventMaster",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Emergin",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Eligibility Assistance (EA)",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"eCDI",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"ecworksFTP",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"eClinicalWorks Patient Portal",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Electronic Payment Exchange",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Edifecs",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"ePrescribe",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"eDOC for Richmond Bone & Joint",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"EPX for Richmond Bone & Joint",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Endovault",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"eClinicalWorks eBO",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"EDW-Enterprise Data Warehouse",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"Cerner Technical Services"
+  },
+  {
+    "Application":"FileNET",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"FormScape",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Faciledi",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Floor Stock - Dietary",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Freshloc",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Fastrack",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Fairwarning Audit",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"FilterFresh",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Fee Schedule Manager",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"FSV",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Goldmine Sales and Marketing",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"GENERAL CM&D INFO",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Gajema Frontline",
+    "SegmentOwner":"Robert Weeks",
+    "SolutionSegment":"MHIE"
+  },
+  {
+    "Application":"GE Hemodynamics",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"GE - Telligence ADT IF",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"GHX",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Gem Web Plus",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Healthquest - Patient Management",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Healthquest - Patient Accounting",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"HealthTouch Room Service",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Healthquest",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Hartman Value Profile",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"HSP",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"http://www.mhealthbenefits.org/",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Hill Rom Nurse Call",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Hedgehog",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Healthcare Strategies",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Haemonetics",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Health Portal Solutions (HPS)",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Hephaestus Worklist for RBJ",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Home Health Fax Plus",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Imaging - PBS",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - A/P",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - HIM",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Materials Management",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Human Resources",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - HealthNet Providers",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - President's Office",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"IMPAC Radiation Therapy",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"iOffice",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Integral HRMS I-TRUST",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Identicard/Expression ID",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Integral Flex System",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"IRM Paging System and Software",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Imaging - Executive Office Correspondence",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Legal",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - ISD Security",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Training Assessments",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - BioMedical Engineering",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - HIM Disclosures",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Lab Outreach",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"ImageQuest",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Imaging - Cytology",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - ROI",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - Payroll",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Imaging - HR Job Descriptions",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Insurance Rules",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Intellicure Wound Care",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Ivans Lime Portal",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Insite Facesheet",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Imaging - eVue",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"ISD Customer Survey",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"InSite",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Ibex",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"InTouch Neuro Robot",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"iOrder",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"I-Recruit",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Internet Explorer 7",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"iTransact",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Inet Vista",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Imaging - HIM Export Utility",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"iRound",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Hospital ISD"
+  },
+  {
+    "Application":"Internet Firewall",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"IQManager",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Imaging - WorkPlaceXT",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Infinitt Relay",
+    "SegmentOwner":"Robert Weeks",
+    "SolutionSegment":"MHIE"
+  },
+  {
+    "Application":"Juniper SSL VPN",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"Kryptiq Secure Messaging",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Kiwi Syslog Server",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"Krames",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Knowledge Portal",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Kryptiq Patient Portal",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"LifeTech Urology",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Lab Variance",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Lawson Accounts Payable",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Lawson EDI",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Lawson General Ledger",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Lawson Materials Management",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Lawson Web",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Legacy",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Lifescan Datalink",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Laboratory Directory of Services",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Lawson Punchout",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Lantis",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Lawson ProcessFlow",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Lawson Add-ins",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Lifenet STEMI",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"LRS",
+    "SegmentOwner":"Jon Krueger",
+    "SolutionSegment":"AIX Technical Services"
+  },
+  {
+    "Application":"LRS/VPSX",
+    "SegmentOwner":"Jon Krueger",
+    "SolutionSegment":"AIX Technical Services"
+  },
+  {
+    "Application":"Lawson Business Intelligence",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Lawson Mobile Supply Chain Management",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Laboratory Corporation of America",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Language Line UC",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"MIDAS+ Infrastructures / Apps",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Medical Staff Roster Online",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Medical Staff Inquiry",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Medical Staff Reports",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MICROS Cash Registers",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"MSOW",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MestaMed",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"MSO Viewer",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Medisoft",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MedHost",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Microsoft Word",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Activesync",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Internet Explorer",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Internet Information Service",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Microsoft Office",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Office Viewers",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Office Project",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Microsoft Visio",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"MRTG",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"MUSE",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Microsoft Outlook",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"MemorialHermann.org",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"M&D Cares",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"MedKeeper",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Monarch Pro",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Mempager",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"MHHNP Secure Web Site",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Microsoft Network",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"mhmd.org",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MIDAS+ Zynx",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"MIDAS+ InterQual CERMe",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"MedGraphics Pulmonary Function",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Micromedex",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Microfilm Indexing - Hermann",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Microfilm Indexing",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"MVS/ESA",
+    "SegmentOwner":"Marcus Martin",
+    "SolutionSegment":"Data Center Services"
+  },
+  {
+    "Application":"Meditech",
+    "SegmentOwner":"Gina Tripp",
+    "SolutionSegment":"TIRR"
+  },
+  {
+    "Application":"MHiE - LifePoint",
+    "SegmentOwner":"Robert Weeks",
+    "SolutionSegment":"MHIE"
+  },
+  {
+    "Application":"Microsoft Communication Server/Lync",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"MedSage",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"MiniTab",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Medfax",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"MRS - Medical Record Systems",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"MRS",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"MedSafe",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"MyActive Staffer",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Microsoft Project Server 2007 SP2",
+    "SegmentOwner":"Mike Rodriguez",
+    "SolutionSegment":"Project Management"
+  },
+  {
+    "Application":"McAfee EERM",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Multum",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"MedConnect",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Physician Initiatives"
+  },
+  {
+    "Application":"MedSafe Central",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"MHiE - Image Gateway",
+    "SegmentOwner":"Robert Weeks",
+    "SolutionSegment":"MHIE"
+  },
+  {
+    "Application":"MHiE - Clinical Data Exchange",
+    "SegmentOwner":"Robert Weeks",
+    "SolutionSegment":"MHIE"
+  },
+  {
+    "Application":"Muse Lite (Cardiosoft)",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Medtronic Continuous Glucose Monitor",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Milliman CareWebQI",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MPages Mobile",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Physician Initiatives"
+  },
+  {
+    "Application":"MHealth Fax Plus",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"MHHS Network",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Milliman MedInsight",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Meridios",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Milliman XLogic",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Manage Engine Service Desk Plus",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"McKesson ClaimCheck Plus",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"McKesson PM",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"MedEvolve Practice Management",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"meridianEMR",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Manoview",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Microsoft CRM Dynamics",
+    "SegmentOwner":"Gina Tripp",
+    "SolutionSegment":"TIRR"
+  },
+  {
+    "Application":"Back to Top",
+    "SegmentOwner":"",
+    "SolutionSegment":""
+  },
+  {
+    "Application":"NOMAD",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"Cerner Technical Services"
+  },
+  {
+    "Application":"Nihon Kohden",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"nFUSE",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Nurse Call - COMLinx",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"NTRACS - Burn Registy",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"NSI Doubletake",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Neurocore",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"Northeast Wellness Center Application",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"NaviCare Watchild",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"NCR Kiosks and NCR Patient Portal FOR RBJ",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Neopost Neotrak",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Navis Lite",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Openview",
+    "SegmentOwner":"Christopher Kar",
+    "SolutionSegment":"Network Engineering"
+  },
+  {
+    "Application":"Occuhealth",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Omnicell Pharmacy Central",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Online Service Request",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Omega Reporter",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"On-call Schedule",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"OR Dashboard",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"SurgiNet"
+  },
+  {
+    "Application":"OR Scheduling Request Form",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"SurgiNet"
+  },
+  {
+    "Application":"Optivox",
+    "SegmentOwner":"Vonceille Roberson",
+    "SolutionSegment":"CARE4 CareNet"
+  },
+  {
+    "Application":"Olympus",
+    "SegmentOwner":"Jon Krueger",
+    "SolutionSegment":"AIX Technical Services"
+  },
+  {
+    "Application":"Online Cobra Payment",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"OHM - Pure Safety",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Payersoft",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"Payersoft HIPAA Compliance Module",
+    "SegmentOwner":"Beverly Shelton",
+    "SolutionSegment":"MHealth and MHMD Support"
+  },
+  {
+    "Application":"PERQs",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Policy and Procedures Manager",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Hospital ISD"
+  },
+  {
+    "Application":"PhysicianLINK",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Physician Initiatives"
+  },
+  {
+    "Application":"Powerabstract",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Powerrelease",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Pyxis",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"PACS",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Pathways",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Pyxis Connect",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Patient Access Tracker",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Powerrelease- Web Disclosure",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"PIL - Partners In Learning",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Patient Direct Connect",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Pay Your Bill Online",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"PenRad",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Partners in Excellence",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"Planon FacilityOffice",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"Pyxis Scan Assist",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"PIE",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"PIL Competency Editor",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"PortfolioCenter",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"PharmPro",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"PBDS - Nurse Assessment",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Perspective",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Pyxis Supply Station",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"PixCert",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Pro Center",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"PCA",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"PediCath",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Proximity",
+    "SegmentOwner":"Donna MacDonough",
+    "SolutionSegment":"Physician Initiatives"
+  },
+  {
+    "Application":"PhACTS @ MC",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Pyxis CCE - Supply",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Physician Office PACS",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"PreNatal Faxing",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"PointClick",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"PACSScan",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Primordial Radiology",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Philips Telehealth",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"PolicyTech",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Power Chart Maternity",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"PatientSecure",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"PhACTs @ SW",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"Phacts at SW",
+    "SegmentOwner":"Pepper Pittman",
+    "SolutionSegment":"Pharmacy"
+  },
+  {
+    "Application":"QS Labor and Delivery",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"QS OBLink",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"Quality Center",
+    "SegmentOwner":"Anna Flores",
+    "SolutionSegment":"Quality Assurance"
+  },
+  {
+    "Application":"QML",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"QAWeb",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Radiology"
+  },
+  {
+    "Application":"Quest Diagnostics Laboratories",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"ReRes",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Reflections",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Remedy",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"ReportSafe",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"RES-Q",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Riskmaster",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Raisers Edge",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Roomfinder",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"RemedyMD Bariatric Medicine",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Rehab Productivity Tracker",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Responder Net",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"RASMAS",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"RightAnswers",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Respironics Encore Anywhere",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Remedy ITSM",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Review Room",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"RFID MobileView",
+    "SegmentOwner":"Chris Rodriquez",
+    "SolutionSegment":"Imaging and Data Access"
+  },
+  {
+    "Application":"ReportExec",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Retina",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Secure Logix telephone call logging",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Shavlik Microsoft server patch management ",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Support Center App",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Sensage Audit Server",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Single Sign-On Engine",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"SecureScout",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Study Track",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Sharepoint",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internet Portals"
+  },
+  {
+    "Application":"SE OnCall Calendar",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Safeboot Device Encryption",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Softlab",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Supply Formulary & Charge Requests",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Secure1",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Symantec Endpoint",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Secure FTP",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"SendSuite",
+    "SegmentOwner":"Wilmer Champ",
+    "SolutionSegment":"Accounting, A/P & Budget"
+  },
+  {
+    "Application":"Single Signon-Proximity Enabled",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"Scapa",
+    "SegmentOwner":"Anna Flores",
+    "SolutionSegment":"Quality Assurance"
+  },
+  {
+    "Application":"Surgical Outcome Tracking",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"SEP",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Standing Stone",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"SMART",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"SkillCheck",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"SHP - Strategic Health Program",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Spectralink",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"ScanSnap",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Sage EMR & PM",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"SeeMore",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Transchart Web 5.1",
+    "SegmentOwner":"Rafael Rodriguez",
+    "SolutionSegment":"Laboratory and Ancillary Solutions"
+  },
+  {
+    "Application":"Transfer Center Console application",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Traumabase",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Travis Cobra Software",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"TippingPoint Intrusion Prevention",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Trakker",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Technical Services - Interface",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"CSP"
+  },
+  {
+    "Application":"Technical Services - VMS Tech Services",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"CSP"
+  },
+  {
+    "Application":"Technical Services - CSP",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"CSP"
+  },
+  {
+    "Application":"Tech Services - Quality",
+    "SegmentOwner":"Omar Awan",
+    "SolutionSegment":"CSP"
+  },
+  {
+    "Application":"Trauma Page",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"TeraRecon",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Tissue TrackCore",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Telecom",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Telephone Systems",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Transfer Center ForeFront",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"TSystem EV",
+    "SegmentOwner":"Adrian Wilhelmsen",
+    "SolutionSegment":"ED - Critical Care"
+  },
+  {
+    "Application":"Televox",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"UltraQuest",
+    "SegmentOwner":"Brian Beardmore",
+    "SolutionSegment":"Decision Support"
+  },
+  {
+    "Application":"UPS - Power",
+    "SegmentOwner":"Marcus Martin",
+    "SolutionSegment":"Data Center Services"
+  },
+  {
+    "Application":"UT CodeRyte Interface",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"USA Mobility",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"VAROME",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Versyss",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"VolunteerWorks",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Veritas Netbackup",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"VoiCert - Voice Tracker",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"Vocational Nursing Student Registry",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"VMWare",
+    "SegmentOwner":"Craig Kline",
+    "SolutionSegment":"Network Administration"
+  },
+  {
+    "Application":"Vendor Assistance Portal",
+    "SegmentOwner":"Sheila Diombala",
+    "SolutionSegment":"Supply Chain"
+  },
+  {
+    "Application":"Vendor Portal Access",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Vocera",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Vac-Seen",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"VRS (Variance Reporting System)",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Care Management"
+  },
+  {
+    "Application":"Verisma",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Medical Records"
+  },
+  {
+    "Application":"Visdoc Document Management",
+    "SegmentOwner":"Mitch Kwartler",
+    "SolutionSegment":"Physician Office Solutions ? POINT"
+  },
+  {
+    "Application":"Voalte",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"Vivify Health",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"Vivify Remote Monitoring",
+    "SegmentOwner":"Kelly Pitre",
+    "SolutionSegment":"Home Health"
+  },
+  {
+    "Application":"WatchChild Labor and Delivery",
+    "SegmentOwner":"Sheri Dickinson",
+    "SolutionSegment":"Women Services"
+  },
+  {
+    "Application":"Web Emulator",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Websense",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Windows 2000",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Windows XP",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Winzip 8.1",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"WITT Hemodynamics",
+    "SegmentOwner":"Theresa Peel",
+    "SolutionSegment":"Heart and Vascular Solutions"
+  },
+  {
+    "Application":"Windows Vista",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Web Pre-registration",
+    "SegmentOwner":"Chao-lin Liang",
+    "SolutionSegment":"Patient Management"
+  },
+  {
+    "Application":"WebPager",
+    "SegmentOwner":"Hector Villarreal",
+    "SolutionSegment":"Internal Development"
+  },
+  {
+    "Application":"WinTask",
+    "SegmentOwner":"Anna Flores",
+    "SolutionSegment":"Quality Assurance"
+  },
+  {
+    "Application":"Windows 7",
+    "SegmentOwner":"Renee Neely",
+    "SolutionSegment":"Desktop Solutions"
+  },
+  {
+    "Application":"Wounddoc",
+    "SegmentOwner":"Theresa Lund",
+    "SolutionSegment":"Clinical Specialty Solutions"
+  },
+  {
+    "Application":"Xtend - PC based Consoles",
+    "SegmentOwner":"Chad Gross",
+    "SolutionSegment":"Telecom Solutions"
+  },
+  {
+    "Application":"XactiMed-XClaim",
+    "SegmentOwner":"Doug Anders",
+    "SolutionSegment":"Patient Accounting"
+  },
+  {
+    "Application":"Zix Secure Email",
+    "SegmentOwner":"Randy Yates",
+    "SolutionSegment":"Security"
+  },
+  {
+    "Application":"Zip Park",
+    "SegmentOwner":"Tanya Norman",
+    "SolutionSegment":"Employee Compensation, Benefits, Payroll, Time & Attendance"
+  },
+  {
+    "Application":"Zoll, RescueNet Suite",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  },
+  {
+    "Application":"Zoll, Tablet PCR",
+    "SegmentOwner":"ShuRon Green",
+    "SolutionSegment":"TMC Applications"
+  }
+]
+}

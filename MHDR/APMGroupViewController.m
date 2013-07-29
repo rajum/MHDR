@@ -38,10 +38,10 @@
     thePickerView.showsSelectionIndicator = TRUE;
     
     //One column array example
-    self.oneColumnList=[[NSArray alloc] initWithObjects:@"New York",@"Montreal",@"Miami",@"Boston",@"Philadelphia",@"Toronto",@"Calcary",@"Vancouver",@"Los Angeles",@"Cupertino",@"Austin",@"New Orleans", nil];
+    self.oneColumnList=[[NSArray alloc] initWithObjects:@"Accounting",@"Decision Support",@"Internal Development",@"Medical Records",@"Patient Management",@"PIE", nil];
     
     //Two column array example
-    self.secondColumnList=[[NSArray alloc] initWithObjects:@"Canada", @"United States",@"Mexico",@"England",@"France",@"Greece", @"Slovakia",@"Switzerland", nil];
+    self.secondColumnList=[[NSArray alloc] initWithObjects:@"Brian Beardmore", @"Chao-lin Liang",@"Hector Villarreal",@"Wilmer Champ", nil];
     [super viewDidLoad];
     
 }

@@ -14,10 +14,12 @@
 #import "OnCallDetailViewController.h"
 #import "APMGroupViewController.h"
 #import "ASM_TSMListViewController.h"
+#import "ContactListViewController.h"
 
 @interface MainViewController : UITableViewController
 
 @property (nonatomic,strong) NSArray *isdDRList;
 @property (nonatomic,copy) void (^dismissBlock)(void);
+- (IBAction)close:(id)sender;
 
 @end
