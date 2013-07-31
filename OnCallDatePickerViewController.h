@@ -7,8 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "OnCallSolSegmentPickerViewController.h"
 
 @interface OnCallDatePickerViewController : UIViewController<UIPickerViewDelegate>
+
 @property (weak, nonatomic) IBOutlet UIDatePicker *datePicker;
+
 @property (weak, nonatomic) IBOutlet UILabel *selectedDateField;
+
+- (IBAction)next:(id)sender;
+
 @end

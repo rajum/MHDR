@@ -21,7 +21,7 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
-        self.navigationItem.title = @"ISD Disaster Recovery";
+        self.navigationItem.title = @"MHDR";
         self.isdDRList = [NSMutableArray arrayWithCapacity:1];
     }
     return self;

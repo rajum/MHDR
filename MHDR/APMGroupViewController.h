@@ -15,7 +15,7 @@
 
 @property (strong, nonatomic) IBOutlet UILabel *selectedCity;
 
-@property (strong,nonatomic) NSArray *oneColumnList;
+@property (strong, nonatomic) NSArray *oneColumnList;
 @property (strong, nonatomic) NSArray *secondColumnList;
 
 - (IBAction)search:(id)sender;

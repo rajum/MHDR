@@ -24,6 +24,7 @@
         //[self fetchFeed];
         //[self fetchFromJsonFile];
 
+        
         self.navigationItem.title = @"Member List";
         
         /*
@@ -57,7 +58,7 @@
                                                                          options:0
                                                                            error:nil];
     // For debugging purpose
-    NSLog(@"%@",jsonDictionaryObject);
+    //NSLog(@"%@",jsonDictionaryObject);
     
     NSArray *memberList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
     

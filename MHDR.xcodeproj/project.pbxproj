@@ -11,6 +11,12 @@
 		AC2026AA1795F315008036D4 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2026A81795F315008036D4 /* LoginViewController.xib */; };
 		AC6FA33517A3206F002FD448 /* OnCallDatePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC6FA33317A3206F002FD448 /* OnCallDatePickerViewController.m */; };
 		AC6FA33617A3206F002FD448 /* OnCallDatePickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC6FA33417A3206F002FD448 /* OnCallDatePickerViewController.xib */; };
+		AC9548DE17A81C2B0038DC8C /* oncall2.json in Resources */ = {isa = PBXBuildFile; fileRef = AC9548DD17A81C2B0038DC8C /* oncall2.json */; };
+		AC9548E717A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9548E517A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m */; };
+		AC9548E817A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9548E617A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib */; };
+		AC9548EB17A852A40038DC8C /* OnCall.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9548EA17A852A40038DC8C /* OnCall.m */; };
+		AC9548F417A85E010038DC8C /* OnCallDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9548F217A85E000038DC8C /* OnCallDetailViewController.m */; };
+		AC9548F517A85E010038DC8C /* OnCallDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9548F317A85E010038DC8C /* OnCallDetailViewController.xib */; };
 		AC95FC2A1796F81F00D408F1 /* TeamMemberViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC95FC281796F81F00D408F1 /* TeamMemberViewController.m */; };
 		AC95FC2B1796F81F00D408F1 /* TeamMemberViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */; };
 		AC97828517A1C69900CA6E18 /* APMGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC97828317A1C69900CA6E18 /* APMGroupViewController.m */; };
@@ -20,8 +26,6 @@
 		ACB0B6F517A6F4B700611567 /* ContactListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB0B6F417A6F4B700611567 /* ContactListViewController.m */; };
 		ACB4BF031798869A00132045 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF021798869A00132045 /* MainViewController.m */; };
 		ACB4BF17179897B300132045 /* OnCallGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF16179897B300132045 /* OnCallGroupViewController.m */; };
-		ACB4BF1E1798981B00132045 /* OnCallDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF1C1798981B00132045 /* OnCallDetailViewController.m */; };
-		ACB4BF1F1798981B00132045 /* OnCallDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACB4BF1D1798981B00132045 /* OnCallDetailViewController.xib */; };
 		ACB4BF221798984A00132045 /* OnCallListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB4BF211798984A00132045 /* OnCallListViewController.m */; };
 		ACB7C9D61799BCCB005DF8A3 /* Hypno.png in Resources */ = {isa = PBXBuildFile; fileRef = ACB7C9D21799BCCB005DF8A3 /* Hypno.png */; };
 		ACB7C9D71799BCCB005DF8A3 /* Hypno@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACB7C9D31799BCCB005DF8A3 /* Hypno@2x.png */; };
@@ -47,7 +51,6 @@
 		ACE44342179079EA00B78691 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE44341179079EA00B78691 /* Default-568h@2x.png */; };
 		ACE4434D17907B6500B78691 /* TeamListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434C17907B6500B78691 /* TeamListViewController.m */; };
 		ACE443501790834900B78691 /* TeamMember.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434F1790834900B78691 /* TeamMember.m */; };
-		ACF2D22217A086E4001D10F4 /* members.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF2D22117A086E4001D10F4 /* members.json */; };
 		ACF606A217A70CBA0030A73D /* OPS_Guide_Update.doc in Resources */ = {isa = PBXBuildFile; fileRef = ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */; };
 		ACF606A317A70D330030A73D /* VendorContact.xls in Resources */ = {isa = PBXBuildFile; fileRef = ACF6069D17A701680030A73D /* VendorContact.xls */; };
 		ACF606A417A70D380030A73D /* MedicalPlazaNorth.xls in Resources */ = {isa = PBXBuildFile; fileRef = ACF6069E17A701680030A73D /* MedicalPlazaNorth.xls */; };
@@ -61,6 +64,15 @@
 		AC6FA33217A3206F002FD448 /* OnCallDatePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallDatePickerViewController.h; sourceTree = "<group>"; };
 		AC6FA33317A3206F002FD448 /* OnCallDatePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallDatePickerViewController.m; sourceTree = "<group>"; };
 		AC6FA33417A3206F002FD448 /* OnCallDatePickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnCallDatePickerViewController.xib; sourceTree = "<group>"; };
+		AC9548DD17A81C2B0038DC8C /* oncall2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = oncall2.json; sourceTree = "<group>"; };
+		AC9548E417A8200E0038DC8C /* OnCallSolSegmentPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallSolSegmentPickerViewController.h; sourceTree = "<group>"; };
+		AC9548E517A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallSolSegmentPickerViewController.m; sourceTree = "<group>"; };
+		AC9548E617A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnCallSolSegmentPickerViewController.xib; sourceTree = "<group>"; };
+		AC9548E917A852A40038DC8C /* OnCall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCall.h; sourceTree = "<group>"; };
+		AC9548EA17A852A40038DC8C /* OnCall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCall.m; sourceTree = "<group>"; };
+		AC9548F117A85E000038DC8C /* OnCallDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallDetailViewController.h; sourceTree = "<group>"; };
+		AC9548F217A85E000038DC8C /* OnCallDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallDetailViewController.m; sourceTree = "<group>"; };
+		AC9548F317A85E010038DC8C /* OnCallDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnCallDetailViewController.xib; sourceTree = "<group>"; };
 		AC95FC271796F81F00D408F1 /* TeamMemberViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMemberViewController.h; sourceTree = "<group>"; };
 		AC95FC281796F81F00D408F1 /* TeamMemberViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMemberViewController.m; sourceTree = "<group>"; };
 		AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TeamMemberViewController.xib; sourceTree = "<group>"; };
@@ -79,9 +91,6 @@
 		ACB4BF021798869A00132045 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		ACB4BF15179897B300132045 /* OnCallGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallGroupViewController.h; sourceTree = "<group>"; };
 		ACB4BF16179897B300132045 /* OnCallGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallGroupViewController.m; sourceTree = "<group>"; };
-		ACB4BF1B1798981B00132045 /* OnCallDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallDetailViewController.h; sourceTree = "<group>"; };
-		ACB4BF1C1798981B00132045 /* OnCallDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallDetailViewController.m; sourceTree = "<group>"; };
-		ACB4BF1D1798981B00132045 /* OnCallDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnCallDetailViewController.xib; sourceTree = "<group>"; };
 		ACB4BF201798984A00132045 /* OnCallListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallListViewController.h; sourceTree = "<group>"; };
 		ACB4BF211798984A00132045 /* OnCallListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallListViewController.m; sourceTree = "<group>"; };
 		ACB7C9D21799BCCB005DF8A3 /* Hypno.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hypno.png; sourceTree = "<group>"; };
@@ -121,7 +130,6 @@
 		ACE4434E1790834900B78691 /* TeamMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMember.h; sourceTree = "<group>"; };
 		ACE4434F1790834900B78691 /* TeamMember.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMember.m; sourceTree = "<group>"; };
 		ACE443511790847300B78691 /* TeamJSONObjectDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TeamJSONObjectDelegate.h; sourceTree = "<group>"; };
-		ACF2D22117A086E4001D10F4 /* members.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members.json; sourceTree = "<group>"; };
 		ACF6069D17A701680030A73D /* VendorContact.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = VendorContact.xls; sourceTree = "<group>"; };
 		ACF6069E17A701680030A73D /* MedicalPlazaNorth.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = MedicalPlazaNorth.xls; sourceTree = "<group>"; };
 		ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = OPS_Guide_Update.doc; sourceTree = "<group>"; };
@@ -237,14 +245,19 @@
 				ACB7C9D11799BCB4005DF8A3 /* Supporting Files */,
 				ACB4BF15179897B300132045 /* OnCallGroupViewController.h */,
 				ACB4BF16179897B300132045 /* OnCallGroupViewController.m */,
-				ACB4BF1B1798981B00132045 /* OnCallDetailViewController.h */,
-				ACB4BF1C1798981B00132045 /* OnCallDetailViewController.m */,
-				ACB4BF1D1798981B00132045 /* OnCallDetailViewController.xib */,
 				ACB4BF201798984A00132045 /* OnCallListViewController.h */,
 				ACB4BF211798984A00132045 /* OnCallListViewController.m */,
 				AC6FA33217A3206F002FD448 /* OnCallDatePickerViewController.h */,
 				AC6FA33317A3206F002FD448 /* OnCallDatePickerViewController.m */,
 				AC6FA33417A3206F002FD448 /* OnCallDatePickerViewController.xib */,
+				AC9548E417A8200E0038DC8C /* OnCallSolSegmentPickerViewController.h */,
+				AC9548E517A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m */,
+				AC9548E617A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib */,
+				AC9548E917A852A40038DC8C /* OnCall.h */,
+				AC9548EA17A852A40038DC8C /* OnCall.m */,
+				AC9548F117A85E000038DC8C /* OnCallDetailViewController.h */,
+				AC9548F217A85E000038DC8C /* OnCallDetailViewController.m */,
+				AC9548F317A85E010038DC8C /* OnCallDetailViewController.xib */,
 			);
 			name = OnCall;
 			path = ..;
@@ -279,6 +292,7 @@
 		ACB7C9D11799BCB4005DF8A3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AC9548DD17A81C2B0038DC8C /* oncall2.json */,
 				ACB7C9D21799BCCB005DF8A3 /* Hypno.png */,
 				ACB7C9D31799BCCB005DF8A3 /* Hypno@2x.png */,
 				ACB7C9D41799BCCB005DF8A3 /* Time.png */,
@@ -360,7 +374,6 @@
 		ACE44332179079EA00B78691 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				ACF2D22117A086E4001D10F4 /* members.json */,
 				ACE44333179079EA00B78691 /* MHDR-Info.plist */,
 				ACE44334179079EA00B78691 /* InfoPlist.strings */,
 				ACE44337179079EA00B78691 /* main.m */,
@@ -438,12 +451,10 @@
 				ACE44342179079EA00B78691 /* Default-568h@2x.png in Resources */,
 				AC2026AA1795F315008036D4 /* LoginViewController.xib in Resources */,
 				AC95FC2B1796F81F00D408F1 /* TeamMemberViewController.xib in Resources */,
-				ACB4BF1F1798981B00132045 /* OnCallDetailViewController.xib in Resources */,
 				ACB7C9D61799BCCB005DF8A3 /* Hypno.png in Resources */,
 				ACB7C9D71799BCCB005DF8A3 /* Hypno@2x.png in Resources */,
 				ACB7C9D81799BCCB005DF8A3 /* Time.png in Resources */,
 				ACB7C9D91799BCCB005DF8A3 /* Time@2x.png in Resources */,
-				ACF2D22217A086E4001D10F4 /* members.json in Resources */,
 				AC97828617A1C69900CA6E18 /* APMGroupViewController.xib in Resources */,
 				ACBCFC8517A2D82C000BC639 /* APMApplicationViewController.xib in Resources */,
 				ACBCFC9117A2EFE0000BC639 /* ASM_TSMViewController.xib in Resources */,
@@ -455,6 +466,9 @@
 				ACF606A317A70D330030A73D /* VendorContact.xls in Resources */,
 				ACF606A417A70D380030A73D /* MedicalPlazaNorth.xls in Resources */,
 				ACF606A917A725AA0030A73D /* apm2.json in Resources */,
+				AC9548DE17A81C2B0038DC8C /* oncall2.json in Resources */,
+				AC9548E817A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib in Resources */,
+				AC9548F517A85E010038DC8C /* OnCallDetailViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -473,7 +487,6 @@
 				AC95FC2A1796F81F00D408F1 /* TeamMemberViewController.m in Sources */,
 				ACB4BF031798869A00132045 /* MainViewController.m in Sources */,
 				ACB4BF17179897B300132045 /* OnCallGroupViewController.m in Sources */,
-				ACB4BF1E1798981B00132045 /* OnCallDetailViewController.m in Sources */,
 				ACB4BF221798984A00132045 /* OnCallListViewController.m in Sources */,
 				AC97828517A1C69900CA6E18 /* APMGroupViewController.m in Sources */,
 				ACBCFC7D17A2D2A4000BC639 /* APMListViewController.m in Sources */,
@@ -484,6 +497,9 @@
 				ACBCFC9717A2F385000BC639 /* ASM_TSM.m in Sources */,
 				AC6FA33517A3206F002FD448 /* OnCallDatePickerViewController.m in Sources */,
 				ACB0B6F517A6F4B700611567 /* ContactListViewController.m in Sources */,
+				AC9548E717A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m in Sources */,
+				AC9548EB17A852A40038DC8C /* OnCall.m in Sources */,
+				AC9548F417A85E010038DC8C /* OnCallDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

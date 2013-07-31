@@ -19,6 +19,8 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
+        
+        //self.navigationItem.title = @"On Call";
     }
     return self;
 }
@@ -38,6 +40,18 @@
 
 }
 
+- (void)viewWillAppear:(BOOL)animated
+{
+    self.navigationItem.title = @"On Call - Select Date";
+    
+}
+
+- (void)viewWillDisappear:(BOOL)animated
+{
+    self.navigationItem.title = @"Back";
+
+}
+
 - (void)changeDateInLabel:(id)sender
 {
     NSDateFormatter *df = [[NSDateFormatter alloc] init];
@@ -46,6 +60,14 @@
     
     //self.datePicker.date = [NSDate date];
 
+}
+
+- (IBAction)next:(id)sender
+{
+    OnCallSolSegmentPickerViewController *onCallSolSegmentPickerLvc = [[OnCallSolSegmentPickerViewController alloc] init];
+    
+    [self.navigationController pushViewController:onCallSolSegmentPickerLvc animated:YES];
+    
 }
 
 - (void)didReceiveMemoryWarning

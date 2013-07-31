@@ -8,9 +8,11 @@
 
 #import <UIKit/UIKit.h>
 #import "OnCallDetailViewController.h"
+#import "OnCall.h"
 
 @interface OnCallListViewController : UITableViewController
 
-@property (nonatomic,strong) NSArray *memberList;
+@property (nonatomic,strong) NSMutableArray *teamMemberList;
+@property (nonatomic,copy) void (^dismissBlock)(void);
 
 @end
