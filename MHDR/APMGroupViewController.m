@@ -24,7 +24,7 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
-    }
+        }
     return self;
 }
 
@@ -46,6 +46,18 @@
     
 }
 
+- (void)viewWillAppear:(BOOL)animated
+{
+    self.navigationItem.title = @"APM - Solution Segment";
+    
+}
+
+- (void)viewWillDisappear:(BOOL)animated
+{
+    self.navigationItem.title = @"Back";
+    
+}
+
 - (NSInteger)pickerView:(UIPickerView *)pickerView numberOfRowsInComponent:(NSInteger)component
 {
     if(component == 0)
@@ -57,7 +69,8 @@
 
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView
 {
-    return 2;
+    //return 2;
+    return 1;
 }
 
 #pragma mark - UIPickerView Delegate
@@ -89,11 +102,11 @@ return [secondColumnList objectAtIndex:row];
     self.selectedCountry.text = [secondColumnList objectAtIndex:row];
 }
 
-- (IBAction)search:(id)sender
+- (IBAction)next:(id)sender
 {
-    APMListViewController *apmLvc = [[APMListViewController alloc] initWithStyle:UITableViewStylePlain];
+    APMSegmentOwnerPickerViewController *apmSegmentOwnerPickerVc = [[APMSegmentOwnerPickerViewController alloc] init];
     
-    [self.navigationController pushViewController:apmLvc animated:YES];
+    [self.navigationController pushViewController:apmSegmentOwnerPickerVc animated:YES];
 
 }
     

@@ -19,7 +19,6 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
-        self.navigationItem.title = @"APM";
     }
     return self;
 }
@@ -39,6 +38,19 @@
     
     
 }
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    self.navigationItem.title = @"APM - List";
+    
+}
+
+- (void)viewWillDisappear:(BOOL)animated
+{
+    self.navigationItem.title = @"Back";
+    
+}
+
 
 - (void)fetchFromJsonFile
 {

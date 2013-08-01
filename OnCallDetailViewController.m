@@ -34,7 +34,8 @@
     
     //to do: do this check at the domain class level
     //if(![self.member.Pager isKindOfClass:[NSNull class]])
-    pagerLabelField.text = self.member.Pager;
+    //NSString *pg = [NSString stringWithFormat:@"%ld", self.member.Pager];
+    pagerLabelField.text =  self.member.Pager;//[[NSNumber numberWithLong:self.member.Pager] stringValue];
     
     //cellPhoneLabelField.text = self.member.CellPhone;
     phoneLabelField.text = self.member.Phone;

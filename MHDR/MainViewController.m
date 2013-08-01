@@ -43,7 +43,7 @@
                       @"Change Management",
                       @"Disaster Recovery Plan",
                       @"ISD On-Call Schedule",
-                      @"ISD Team Members Contact Info",
+                      @"ISD Team Members Contact",
                       //@"Situation Management",
                       nil];
                           
@@ -80,6 +80,7 @@
     {
         detailCell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:cellIdentifier];
     }
+    detailCell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     
     NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
     

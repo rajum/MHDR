@@ -71,7 +71,7 @@
                                                                          options:0
                                                                            error:nil];
     // For debugging purpose
-    NSLog(@"%@",jsonDictionaryObject);
+    //NSLog(@"%@",jsonDictionaryObject);
     
     NSArray *memberList = [jsonDictionaryObject objectForKey:@"OnCall"];
     
@@ -89,7 +89,7 @@
         member.StartDate = [teamMember objectForKey:@"Start Date"];
         member.STime = [teamMember objectForKey:@"S Time"];
         member.EndDate = [teamMember objectForKey:@"End Date"];
-        member.StartDate = [teamMember objectForKey:@"E Time"];
+        member.ETime = [teamMember objectForKey:@"E Time"];
         
         [self.teamMemberList addObject:member];
     }

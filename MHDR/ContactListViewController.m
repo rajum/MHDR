@@ -19,6 +19,7 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
+        self.navigationItem.title = @"Contact List";
     }
     return self;
 }

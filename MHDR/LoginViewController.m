@@ -39,7 +39,7 @@
 -(IBAction)authenticate:(id)sender
 {
     //TeamListViewController *teamlvc = [[TeamListViewController alloc] initWithStyle:UITableViewStylePlain];
-    MainViewController *mainlvc = [[MainViewController alloc] initWithStyle:UITableViewStylePlain];
+    MainViewController *mainlvc = [[MainViewController alloc] initWithStyle:UITableViewStyleGrouped];
     
     //UINavigationController *navController = [[UINavigationController alloc]  initWithRootViewController:teamlvc];
     

@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "APMListViewController.h"
+#import "APMSegmentOwnerPickerViewController.h"
+
 
 @interface APMGroupViewController : UIViewController<UIPickerViewDataSource,UIPickerViewDelegate>
 @property (strong, nonatomic) IBOutlet UIPickerView *thePickerView;
@@ -18,6 +19,6 @@
 @property (strong, nonatomic) NSArray *oneColumnList;
 @property (strong, nonatomic) NSArray *secondColumnList;
 
-- (IBAction)search:(id)sender;
+- (IBAction)next:(id)sender;
 
 @end

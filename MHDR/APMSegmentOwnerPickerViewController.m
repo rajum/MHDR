@@ -1,21 +1,20 @@
 //
-//  OnCallSolSegmentPickerViewController.m
+//  APMSegmentOwnerPickerViewController.m
 //  MHDR
 //
-//  Created by Raju Maharjan on 7/30/13.
+//  Created by Raju Maharjan on 7/31/13.
 //  Copyright (c) 2013 Memorial Hermann. All rights reserved.
 //
 
-#import "OnCallSolSegmentPickerViewController.h"
+#import "APMSegmentOwnerPickerViewController.h"
 
-
-@interface OnCallSolSegmentPickerViewController ()
+@interface APMSegmentOwnerPickerViewController ()
 
 @end
 
-@implementation OnCallSolSegmentPickerViewController
-@synthesize solSegmentPickerView;
-@synthesize solSegmentLabelField;
+@implementation APMSegmentOwnerPickerViewController
+@synthesize segmentOwnerPickerView;
+@synthesize segmentOwnerLabelField;
 
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -29,20 +28,17 @@
 
 - (void)viewDidLoad
 {
-    solSegmentPickerView.showsSelectionIndicator = TRUE;
+    segmentOwnerPickerView.showsSelectionIndicator = TRUE;
     
-    self.solSegmentList=[[NSArray alloc] initWithObjects:@"Accounting",@"Decision Support",@"Internal Development",@"Medical Records",@"Patient Management",@"PIE", nil];
+    self.segmentOwnerList=[[NSArray alloc] initWithObjects:@"Brian Beardmore", @"Chao-lin Liang",@"Hector Villarreal",@"Wilmer Champ", nil];
+
     
     [super viewDidLoad];
-    
-       
-    
-      
 }
 
 - (void)viewWillAppear:(BOOL)animated
 {
-    self.navigationItem.title = @"Solution Segment";
+    self.navigationItem.title = @"APM - Segment Owner";
     
 }
 
@@ -55,7 +51,7 @@
 #pragma mark - UIPickerView Delegate
 - (NSInteger)pickerView:(UIPickerView *)pickerView numberOfRowsInComponent:(NSInteger)component
 {
-    return self.solSegmentList.count;
+    return self.segmentOwnerList.count;
 }
 
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView
@@ -65,21 +61,23 @@
 
 - (NSString *)pickerView:(UIPickerView *)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component
 {
-    return [self.solSegmentList objectAtIndex:row];
+    return [self.segmentOwnerList objectAtIndex:row];
 }
 
 -(void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
 {
-    self.solSegmentLabelField.text = [self.solSegmentList objectAtIndex:row];
+    self.segmentOwnerLabelField.text = [self.segmentOwnerList objectAtIndex:row];
 }
 
 - (IBAction)search:(id)sender
 {
-    OnCallListViewController *onCallLvc = [[OnCallListViewController alloc] initWithStyle:UITableViewStylePlain];
+    APMListViewController *apmLvc = [[APMListViewController alloc] initWithStyle:UITableViewStylePlain];
     
-    [self.navigationController pushViewController:onCallLvc animated:YES];
+    [self.navigationController pushViewController:apmLvc animated:YES];
     
 }
+
+
 
 - (void)didReceiveMemoryWarning
 {

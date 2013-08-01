@@ -14,14 +14,15 @@
 {
     if([_Pager isKindOfClass:[NSNull class]])
         return nil;
-    return _Pager;
+    NSString *page = [NSString stringWithFormat:@"%@", _Pager];
+    return page;
 }
 
 - (NSString *)CellPhone
 {
     if([_CellPhone isKindOfClass:[NSNull class]])
         return nil;
-    return _CellPhone;
+    return (NSString *)_CellPhone;
 }
 
 

@@ -64,9 +64,9 @@
 
 - (IBAction)next:(id)sender
 {
-    OnCallSolSegmentPickerViewController *onCallSolSegmentPickerLvc = [[OnCallSolSegmentPickerViewController alloc] init];
+    OnCallSolSegmentPickerViewController *onCallSolSegmentPickerVc = [[OnCallSolSegmentPickerViewController alloc] init];
     
-    [self.navigationController pushViewController:onCallSolSegmentPickerLvc animated:YES];
+    [self.navigationController pushViewController:onCallSolSegmentPickerVc animated:YES];
     
 }
 
