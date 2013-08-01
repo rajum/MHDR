@@ -9,8 +9,10 @@
 /* Begin PBXBuildFile section */
 		AC2026A91795F315008036D4 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2026A71795F315008036D4 /* LoginViewController.m */; };
 		AC2026AA1795F315008036D4 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2026A81795F315008036D4 /* LoginViewController.xib */; };
-		AC3DB2FD17AABB4500758E82 /* TeamMemberDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC3DB2FB17AABB4500758E82 /* TeamMemberDetailViewController.m */; };
-		AC3DB2FE17AABB4500758E82 /* TeamMemberDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC3DB2FC17AABB4500758E82 /* TeamMemberDetailViewController.xib */; };
+		AC3DB30C17AAEB7F00758E82 /* TeamMemberDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC3DB30A17AAEB7F00758E82 /* TeamMemberDetailViewController.m */; };
+		AC3DB30D17AAEB7F00758E82 /* TeamMemberDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC3DB30B17AAEB7F00758E82 /* TeamMemberDetailViewController.xib */; };
+		AC3DB30F17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC3DB30E17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard */; };
+		AC3DB31817AB1EAD00758E82 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC3DB31717AB1EAD00758E82 /* DetailViewController.m */; };
 		AC6FA33517A3206F002FD448 /* OnCallDatePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC6FA33317A3206F002FD448 /* OnCallDatePickerViewController.m */; };
 		AC6FA33617A3206F002FD448 /* OnCallDatePickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC6FA33417A3206F002FD448 /* OnCallDatePickerViewController.xib */; };
 		AC90E3E017A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC90E3DE17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m */; };
@@ -65,9 +67,12 @@
 		AC2026A61795F315008036D4 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		AC2026A71795F315008036D4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		AC2026A81795F315008036D4 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
-		AC3DB2FA17AABB4500758E82 /* TeamMemberDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMemberDetailViewController.h; sourceTree = "<group>"; };
-		AC3DB2FB17AABB4500758E82 /* TeamMemberDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMemberDetailViewController.m; sourceTree = "<group>"; };
-		AC3DB2FC17AABB4500758E82 /* TeamMemberDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TeamMemberDetailViewController.xib; sourceTree = "<group>"; };
+		AC3DB30917AAEB7F00758E82 /* TeamMemberDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMemberDetailViewController.h; sourceTree = "<group>"; };
+		AC3DB30A17AAEB7F00758E82 /* TeamMemberDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMemberDetailViewController.m; sourceTree = "<group>"; };
+		AC3DB30B17AAEB7F00758E82 /* TeamMemberDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TeamMemberDetailViewController.xib; sourceTree = "<group>"; };
+		AC3DB30E17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TeamMemberDetailStoryboard.storyboard; sourceTree = "<group>"; };
+		AC3DB31617AB1EAD00758E82 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		AC3DB31717AB1EAD00758E82 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		AC6FA33217A3206F002FD448 /* OnCallDatePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallDatePickerViewController.h; sourceTree = "<group>"; };
 		AC6FA33317A3206F002FD448 /* OnCallDatePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallDatePickerViewController.m; sourceTree = "<group>"; };
 		AC6FA33417A3206F002FD448 /* OnCallDatePickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnCallDatePickerViewController.xib; sourceTree = "<group>"; };
@@ -298,9 +303,12 @@
 				AC95FC271796F81F00D408F1 /* TeamMemberViewController.h */,
 				AC95FC281796F81F00D408F1 /* TeamMemberViewController.m */,
 				AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */,
-				AC3DB2FA17AABB4500758E82 /* TeamMemberDetailViewController.h */,
-				AC3DB2FB17AABB4500758E82 /* TeamMemberDetailViewController.m */,
-				AC3DB2FC17AABB4500758E82 /* TeamMemberDetailViewController.xib */,
+				AC3DB30917AAEB7F00758E82 /* TeamMemberDetailViewController.h */,
+				AC3DB30A17AAEB7F00758E82 /* TeamMemberDetailViewController.m */,
+				AC3DB30B17AAEB7F00758E82 /* TeamMemberDetailViewController.xib */,
+				AC3DB30E17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard */,
+				AC3DB31617AB1EAD00758E82 /* DetailViewController.h */,
+				AC3DB31717AB1EAD00758E82 /* DetailViewController.m */,
 			);
 			name = "ISD Team Members";
 			sourceTree = "<group>";
@@ -486,7 +494,8 @@
 				AC9548E817A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib in Resources */,
 				AC9548F517A85E010038DC8C /* OnCallDetailViewController.xib in Resources */,
 				AC90E3E117A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.xib in Resources */,
-				AC3DB2FE17AABB4500758E82 /* TeamMemberDetailViewController.xib in Resources */,
+				AC3DB30D17AAEB7F00758E82 /* TeamMemberDetailViewController.xib in Resources */,
+				AC3DB30F17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -519,7 +528,8 @@
 				AC9548EB17A852A40038DC8C /* OnCall.m in Sources */,
 				AC9548F417A85E010038DC8C /* OnCallDetailViewController.m in Sources */,
 				AC90E3E017A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m in Sources */,
-				AC3DB2FD17AABB4500758E82 /* TeamMemberDetailViewController.m in Sources */,
+				AC3DB30C17AAEB7F00758E82 /* TeamMemberDetailViewController.m in Sources */,
+				AC3DB31817AB1EAD00758E82 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

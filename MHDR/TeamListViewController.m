@@ -7,6 +7,7 @@
 //
 
 #import "TeamListViewController.h"
+#import "DetailViewController.h"
 
 @interface TeamListViewController() <NSURLConnectionDataDelegate>
 
@@ -178,19 +179,41 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    /*
     TeamMemberViewController *teamMemberVC = [[TeamMemberViewController alloc] init];
     
-    //TeamMember *teamMember = [self.teamMemberList objectAtIndex:indexPath.row];
     TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
-    //Pass selected teamMember item to TeamMemberViewController object
     teamMemberVC.member = teamMember;
     teamMemberVC.navigationItem.title = teamMember.FullName;
     
     [self.navigationController pushViewController:teamMemberVC animated:YES];
+    */
+    /*
+    TeamMemberDetailViewController *teamMemberDetailVC = [[TeamMemberDetailViewController alloc] initWithStyle:UITableViewStylePlain];
     
+    TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
+    teamMemberDetailVC.member = teamMember;
+    teamMemberDetailVC.navigationItem.title = teamMember.FullName;
     
+    [self.navigationController pushViewController:teamMemberDetailVC animated:YES];
+    */
+    UIStoryboard *detailStoryboard = [UIStoryboard storyboardWithName:@"TeamMemberDetailStoryboard" bundle:nil];
+    DetailViewController *detailStoryboardViewController = [detailStoryboard instantiateInitialViewController];
+    //[self.navigationController pushViewController:detailStoryboardViewController animated:YES];
+    //self.window.rootViewController = detailStoryboardViewController;
+    
+    TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
+    
+    //detailStoryboardViewController.navigationController. = teamMember;
+    //detailStoryboardViewController.navigationItem.title = teamMember.FullName;
+    detailStoryboardViewController.member = teamMember;
+    //[self presentViewController:detailStoryboardViewController animated:YES completion:nil];
+    
+    [self.navigationController pushViewController:detailStoryboardViewController animated:YES];
+
+
 }
 
 

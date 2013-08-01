@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TeamMemberDetailViewController : UITableViewController
+@interface TeamMemberDetailViewController : UIViewController
 
 @end

@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 #import "TeamMember.h"
 #import "TeamMemberViewController.h"
+#import "TeamMemberDetailViewController.h"
+//#import "TeamMemberDetailStoryboard.storyboard"
 
 @interface TeamListViewController : UITableViewController
 
