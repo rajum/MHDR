@@ -22,7 +22,19 @@
     if (self) {
         // Custom initialization
         self.navigationItem.title = @"MHDR";
+        
+        
+         
         self.isdDRList = [NSMutableArray arrayWithCapacity:1];
+        
+        self.imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"main_BKGND"]];
+        self.imgView.frame = self.view.bounds;
+        self.imgView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
+        self.imgView.contentMode = UIViewContentModeScaleAspectFill;
+        [self.tableView addSubview:self.imgView];
+        //[self.view addSubview:imgView];
+        //[self.view sendSubviewToBack:self.imgView];
+        //
     }
     return self;
 }
@@ -35,7 +47,8 @@
     // self.clearsSelectionOnViewWillAppear = NO;
  
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
-    // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    UIBarButtonItem *logOutButton = [[UIBarButtonItem alloc] initWithTitle:@"Logout" style:UIBarButtonItemStylePlain target:self action:@selector(logOut)];
+    self.navigationItem.rightBarButtonItem = logOutButton;
     self.isdDRList = [NSArray arrayWithObjects:
                       @"Application Portfolio Manager",
                       @"ASM / TSM Directory",
@@ -46,7 +59,20 @@
                       @"ISD Team Members Contact",
                       //@"Situation Management",
                       nil];
-                          
+    
+
+    [self.tableView sendSubviewToBack:self.imgView];
+    
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    //[self.tableView sendSubviewToBack:self.imgView];
+    //[self.view addSubview:self.imgView];
+    [self.tableView sendSubviewToBack:self.imgView];
+    [self.navigationController.navigationBar setTintColor:[UIColor colorWithRed:32.0/255.0 green:34.0/255.0 blue:91.0/255.0 alpha:0.9]];
+    //self.tableView.opaque = NO;
+
 }
 
 - (void)didReceiveMemoryWarning
@@ -55,6 +81,12 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)logOut
+{
+    
+    LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+    [self presentViewController:loginVC animated:YES completion:nil];
+}
 
 #pragma mark - Table view data source
 
@@ -85,6 +117,14 @@
     NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
     
     detailCell.textLabel.text = isdDRInfo;
+    [self.tableView sendSubviewToBack:self.imgView];
+    
+    detailCell.opaque = NO;
+    
+    detailCell.textLabel.backgroundColor = [UIColor clearColor];
+    detailCell.detailTextLabel.backgroundColor = [UIColor clearColor];
+    detailCell.backgroundColor = [UIColor colorWithWhite:1 alpha:.55];
+
         
     return detailCell;
 }
@@ -101,6 +141,9 @@
         {
             APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
             [self.navigationController pushViewController:apmGvc animated:YES];
+            
+            //APMPickerViewController *apmPvc = [[APMPickerViewController alloc] init];
+            //[self.navigationController pushViewController:apmPvc animated:YES];
 
             break;
         }

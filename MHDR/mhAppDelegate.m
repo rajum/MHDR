@@ -26,12 +26,13 @@
 
     
     //self.viewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
-    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:loginVC];
+    //UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:loginVC];
     //self.window.rootViewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
-    self.window.rootViewController = navController;
+    //self.window.rootViewController = navController;
+    self.window.rootViewController = loginVC;
 
     
-    self.window.backgroundColor = [UIColor whiteColor];
+    //self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
 }

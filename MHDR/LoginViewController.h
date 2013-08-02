@@ -14,6 +14,7 @@
 
 @property (nonatomic, retain) IBOutlet UITextField  *usernameTextField;
 @property (nonatomic, retain) IBOutlet UITextField  *passwordTextField;
+@property (nonatomic,strong) UIImageView *imgView;
 
 -(IBAction)authenticate:(id)sender;
 

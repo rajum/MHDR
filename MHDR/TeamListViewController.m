@@ -199,18 +199,15 @@
     
     [self.navigationController pushViewController:teamMemberDetailVC animated:YES];
     */
+    
+    //working
+    
     UIStoryboard *detailStoryboard = [UIStoryboard storyboardWithName:@"TeamMemberDetailStoryboard" bundle:nil];
     DetailViewController *detailStoryboardViewController = [detailStoryboard instantiateInitialViewController];
-    //[self.navigationController pushViewController:detailStoryboardViewController animated:YES];
-    //self.window.rootViewController = detailStoryboardViewController;
     
     TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
     
-    //detailStoryboardViewController.navigationController. = teamMember;
-    //detailStoryboardViewController.navigationItem.title = teamMember.FullName;
     detailStoryboardViewController.member = teamMember;
-    //[self presentViewController:detailStoryboardViewController animated:YES completion:nil];
-    
     [self.navigationController pushViewController:detailStoryboardViewController animated:YES];
 
 
