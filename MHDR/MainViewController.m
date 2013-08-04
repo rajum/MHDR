@@ -84,8 +84,12 @@
 - (void)logOut
 {
     
-    LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
-    [self presentViewController:loginVC animated:YES completion:nil];
+//    LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+//    [self presentViewController:loginVC animated:YES completion:nil];
+    UIStoryboard *loginStoryboard = [UIStoryboard storyboardWithName:@"LoginStoryboard" bundle:nil];
+    LoginStoryboardViewController *loginStoryboardVC = [loginStoryboard instantiateInitialViewController];
+    //self.window.rootViewController = loginStoryboardVC;
+    [self presentViewController:loginStoryboardVC animated:YES completion:nil];
 }
 
 #pragma mark - Table view data source

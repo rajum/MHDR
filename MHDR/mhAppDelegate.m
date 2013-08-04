@@ -9,6 +9,8 @@
 #import "mhAppDelegate.h"
 #import "TeamListViewController.h"
 #import "LoginViewController.h"
+#import "LoginStoryboardViewController.h"
+#import "TestViewController.h"
 
 
 @implementation mhAppDelegate
@@ -22,17 +24,38 @@
     //UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:teamlvc];
     
     //self.window.rootViewController = navController;
-    LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
+    //LoginViewController *loginVC = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
 
     
     //self.viewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
     //UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:loginVC];
     //self.window.rootViewController = [[LoginViewController alloc] initWithNibName:@"LoginViewController" bundle:nil];
     //self.window.rootViewController = navController;
-    self.window.rootViewController = loginVC;
+    //self.window.rootViewController = loginVC;
 
     
     //self.window.backgroundColor = [UIColor whiteColor];
+    
+    
+    
+    
+    
+    
+    
+    //TeamMember *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
+    
+    //detailStoryboardViewController.member = teamMember;
+    //[self.navigationController pushViewController:detailStoryboardViewController animated:YES];
+  
+    
+    //TestViewController *testVc = [[TestViewController alloc] init];
+    //self.window.rootViewController = testVc;
+    
+    UIStoryboard *loginStoryboard = [UIStoryboard storyboardWithName:@"LoginStoryboard" bundle:nil];
+    //LoginStoryboardViewController *loginStoryboardVC = [[loginStoryboard instantiateInitialViewController] initWithStyle:UITableViewStyleGrouped];
+    LoginStoryboardViewController *loginStoryboardVC = [loginStoryboard instantiateInitialViewController];
+    self.window.rootViewController = loginStoryboardVC;
+
     [self.window makeKeyAndVisible];
     return YES;
 }
