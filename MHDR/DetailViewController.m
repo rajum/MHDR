@@ -19,6 +19,7 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
+        //self.navigationItem.title = @"Info"; doesn't work here 
     }
     return self;
 }
@@ -33,9 +34,18 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     
-    self.navigationItem.leftBarButtonItem.title = @"BackIt";
+    //self.navigationItem.leftBarButtonItem.title = @"BackIt";
     
-    self.nameLabelField.text = self.member.FirstName;
+    self.fullNameLabelField.text = self.member.FullName;
+    self.cellPhoneLabelField.text = self.member.CellPhone;
+    self.pagerLabelField.text = self.member.Pager;
+    self.officePhoneLabelField.text = self.member.OfficePhone;
+    self.homePhoneLabelField.text = self.member.HomePhone;
+    
+    self.navigationItem.title = @"Info";
+
+
+
 }
 
 - (void)didReceiveMemoryWarning

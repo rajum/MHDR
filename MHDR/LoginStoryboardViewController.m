@@ -34,6 +34,8 @@
     float yOffset = 50.0f; // Change this how much you want!
     self.tableView.frame =  CGRectMake(self.tableView.frame.origin.x, self.tableView.frame.origin.y + yOffset, self.tableView.frame.size.width, self.tableView.frame.size.height);
     [self.tableView setContentInset:UIEdgeInsetsMake(140,0,0,0)];
+    self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+    self.tableView.separatorColor = [UIColor clearColor];
     
 //    self.imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"login_BKGND"]];
 //    self.imgView.frame = self.view.bounds;

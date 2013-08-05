@@ -10,7 +10,11 @@
 #import "TeamMember.h"
 
 @interface DetailViewController : UITableViewController
-@property (nonatomic, strong) IBOutlet UILabel *nameLabelField;
+@property (nonatomic, strong) IBOutlet UILabel *fullNameLabelField;
+@property (strong, nonatomic) IBOutlet UILabel *cellPhoneLabelField;
+@property (strong, nonatomic) IBOutlet UILabel *pagerLabelField;
+@property (strong, nonatomic) IBOutlet UILabel *officePhoneLabelField;
+@property (strong, nonatomic) IBOutlet UILabel *homePhoneLabelField;
 
 @property (nonatomic, strong) TeamMember *member;
 

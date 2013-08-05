@@ -32,9 +32,9 @@
         self.imgView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
         self.imgView.contentMode = UIViewContentModeScaleAspectFill;
         [self.tableView addSubview:self.imgView];
-        //[self.view addSubview:imgView];
+        [self.view addSubview:self.imgView];
         //[self.view sendSubviewToBack:self.imgView];
-        //
+        
     }
     return self;
 }
@@ -57,11 +57,10 @@
                       @"Disaster Recovery Plan",
                       @"ISD On-Call Schedule",
                       @"ISD Team Members Contact",
-                      //@"Situation Management",
                       nil];
     
 
-    [self.tableView sendSubviewToBack:self.imgView];
+    //[self.tableView sendSubviewToBack:self.imgView];
     
 }
 
@@ -69,11 +68,13 @@
 {
     //[self.tableView sendSubviewToBack:self.imgView];
     //[self.view addSubview:self.imgView];
-    [self.tableView sendSubviewToBack:self.imgView];
+    //[self.tableView sendSubviewToBack:self.imgView];
     [self.navigationController.navigationBar setTintColor:[UIColor colorWithRed:32.0/255.0 green:34.0/255.0 blue:91.0/255.0 alpha:0.9]];
     //self.tableView.opaque = NO;
 
 }
+
+
 
 - (void)didReceiveMemoryWarning
 {
@@ -121,16 +122,27 @@
     NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
     
     detailCell.textLabel.text = isdDRInfo;
-    [self.tableView sendSubviewToBack:self.imgView];
+    //
     
     detailCell.opaque = NO;
     
     detailCell.textLabel.backgroundColor = [UIColor clearColor];
     detailCell.detailTextLabel.backgroundColor = [UIColor clearColor];
     detailCell.backgroundColor = [UIColor colorWithWhite:1 alpha:.55];
+    
+    
 
         
     return detailCell;
+}
+
+-(void) tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    if([indexPath row] == ((NSIndexPath*)[[tableView indexPathsForVisibleRows] lastObject]).row){
+        //end of loading
+        //for example [activityIndicator stopAnimating];
+        [self.tableView sendSubviewToBack:self.imgView];
+    }
 }
 
 
