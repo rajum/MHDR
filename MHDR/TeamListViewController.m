@@ -47,9 +47,28 @@
     
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    
+    self.indicator = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
+    [self.tableView addSubview:self.indicator];
+    [self.indicator startAnimating];
+    self.indicator.activityIndicatorViewStyle = UIActivityIndicatorViewStyleGray;
+    [self.indicator sizeToFit];
+    self.indicator.center = CGPointMake(150, 180);
+  
 
     self.teamMemberList = [NSMutableArray arrayWithCapacity:1];
-    [self fetchFromJsonFile];
+    //[self fetchFromJsonFile];
+    //[self fetchFeedInternal];
+    [self fetchFeedExternal];
+    
+    
+    //[self.indicator startAnimating];
+    
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    
 }
 
 - (void)fetchFromJsonFile
@@ -61,19 +80,19 @@
     // For debugging purpose
     //NSLog(@"%@",jsonDictionaryObject);
     
-    NSArray *memberList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
+    NSArray *memberList = [jsonDictionaryObject objectForKey:@"Members"];
     
     self.teamMemberList = [NSMutableArray array];
     
     for(NSDictionary *teamMember in memberList)
     {
         TeamMember *member = [[TeamMember alloc] init];
-        member.LastName = [teamMember objectForKey:@"Last Name"];
-        member.FirstName = [teamMember objectForKey:@"First Name"];
-        member.CellPhone = [teamMember objectForKey:@"Cell Phone"];
+        member.LastName = [teamMember objectForKey:@"LastName"];
+        member.FirstName = [teamMember objectForKey:@"FirstName"];
+        member.CellPhone = [teamMember objectForKey:@"CellPhone"];
         member.Pager = [teamMember objectForKey:@"Pager"];
-        member.OfficePhone = [teamMember objectForKey:@"Office Phone"];
-        member.HomePhone = [teamMember objectForKey:@"Home Phone"];
+        member.OfficePhone = [teamMember objectForKey:@"OfficePhone"];
+        member.HomePhone = [teamMember objectForKey:@"HomePhone"];
         
         member.FullName = [NSString stringWithFormat:@"%@ %@",member.FirstName,member.LastName];
         
@@ -86,21 +105,67 @@
 
 }
 
--(void)fetchFeed
+-(void)fetchFeedInternal
 {
     self.jsonData = [[NSMutableData alloc]init];
     
-    NSString *requestString = @"http://www.inorthwind.com/Service1.svc/getAllCustomers";
+    //NSString *requestString = @"http://www.inorthwind.com/Service1.svc/getAllCustomers";
+    
+    //INTERNAL
+    NSString *requestString = @"http://mhwebtest:8080/MHDR_WebAPI/api/MHDR/GetISDTeamList";
+    
+    
     
     NSURL *url = [NSURL URLWithString:requestString];
     
+    
+    
     NSURLRequest *urlRequest = [NSURLRequest requestWithURL:url];
+    
+    
     
     NSURLConnection *urlConnection = [[NSURLConnection alloc] initWithRequest:urlRequest
                                                                      delegate:self
                                                              startImmediately:YES];
     
     self.connection = urlConnection;
+}
+
+-(void)fetchFeedExternal
+{
+    self.jsonData = [[NSMutableData alloc]init];
+    
+    
+    
+    //EXTERNAL
+    NSString *requestString = @"https://www.mhdr.org/api/api/MHDR/GetISDTeamList";
+    
+        
+
+
+    /*
+    NSString *loginString = [NSString stringWithFormat:@"%@:%@", @"boobka", @"booger69"];
+    NSData *data = [loginString dataUsingEncoding: NSUnicodeStringEncoding];
+    NSString *ret = [NSStringAdditions base64StringFromData:data length:[data length]];
+    NSLog(@"%@", ret);
+    */
+    //NSString *loginString = [NSString stringWithFormat:@"%@:%@", [self userName], [self password]];
+    //NSString *encodedLoginData = [Base64 encode:[loginString dataUsingEncoding:NSUTF8StringEncoding]];
+    //NSString *base64LoginData = [NSString stringWithFormat:@"Basic %@",ret];
+    NSString *base64LoginData = @"Basic Ym9vYmthOmJvb2dlcjY5";
+    
+    NSURL *url=[NSURL URLWithString:requestString];
+    NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url cachePolicy:NSURLRequestReloadIgnoringLocalAndRemoteCacheData
+                                                       timeoutInterval:10.0];
+    
+    [request setHTTPMethod:@"GET"];
+    
+    [request setValue:base64LoginData forHTTPHeaderField:@"Authorization"];
+    
+    NSURLConnection *urlConnection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+    
+    self.connection = urlConnection;
+
 }
 
 - (void)cancel:(id)sender
@@ -225,7 +290,7 @@
     NSString *jsonCheck = [[NSString alloc] initWithData:self.jsonData
                                                 encoding:NSUTF8StringEncoding];
     
-    //NSLog(@"%@", jsonCheck);
+    NSLog(@"%@", jsonCheck);
     
     NSDictionary *jsonDictionaryObject = [NSJSONSerialization JSONObjectWithData:self.jsonData
                                                                options:0
@@ -233,23 +298,33 @@
     // For debugging purpose
     // NSLog(@"%@",jsonDictionaryObject);
     
-    NSArray *memberList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
+    NSArray *memberList = [jsonDictionaryObject objectForKey:@"Members"];
+    //NSArray *memberList = [jsonDictionaryObject objectForKey:@"GetAllCustomersResult"];
     
     self.teamMemberList = [NSMutableArray array];
     
+        
     for(NSDictionary *teamMember in memberList)
     {
         TeamMember *member = [[TeamMember alloc] init];
-        /*
-        member.Customer_ID = [teamMember objectForKey:@"CustomerID"];
-        member.Company_Name = [teamMember objectForKey:@"CompanyName"];
-        member.City = [teamMember objectForKey:@"City"];
-        */
+        member.LastName = [teamMember objectForKey:@"LastName"];
+        member.FirstName = [teamMember objectForKey:@"FirstName"];
+        member.CellPhone = [teamMember objectForKey:@"CellPhone"];
+        member.Pager = [teamMember objectForKey:@"Pager"];
+        member.OfficePhone = [teamMember objectForKey:@"OfficePhone"];
+        member.HomePhone = [teamMember objectForKey:@"Home Phone"];
+        
+        member.FullName = [NSString stringWithFormat:@"%@ %@",member.FirstName,member.LastName];
+        
         [self.teamMemberList addObject:member];
     }
     
     
     [self displayIndexList];
+    
+    [self.indicator stopAnimating];
+    
+    [self.indicator removeFromSuperview];
     
 }
 

@@ -261,8 +261,13 @@
     
     /* Close Button for webView */
     UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-    [button setTitle:@"Close" forState:UIControlStateNormal];
-    button.frame = CGRectMake(80, 210, 160, 40);
+    [button setTitle:@"Back" forState:UIControlStateNormal];
+    //button.frame = CGRectMake(80, 210, 160, 40);
+    
+    [button setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
+    button.frame = CGRectMake(0, 0, 160, 40);
+
+    
     [button addTarget:self action:@selector(close:) forControlEvents:UIControlEventTouchUpInside];
     [webView addSubview:button];
 }

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC0575B817B044F40086B899 /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0575B717B044F40086B899 /* NSStringAdditions.m */; };
+		AC0575BB17B045B20086B899 /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0575BA17B045B20086B899 /* NSDataAdditions.m */; };
 		AC2026A91795F315008036D4 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2026A71795F315008036D4 /* LoginViewController.m */; };
 		AC2026AA1795F315008036D4 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2026A81795F315008036D4 /* LoginViewController.xib */; };
 		AC258C9117ADDC3100B41138 /* LoginStoryboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC258C9017ADDC3100B41138 /* LoginStoryboardViewController.m */; };
@@ -29,6 +31,8 @@
 		AC95B39C17ADD7A4005825A6 /* LoginStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC95B39B17ADD7A4005825A6 /* LoginStoryboard.storyboard */; };
 		AC95FC2A1796F81F00D408F1 /* TeamMemberViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC95FC281796F81F00D408F1 /* TeamMemberViewController.m */; };
 		AC95FC2B1796F81F00D408F1 /* TeamMemberViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */; };
+		AC9696F817B0165400356398 /* APMSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9696F617B0165400356398 /* APMSelectViewController.m */; };
+		AC9696F917B0165400356398 /* APMSelectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9696F717B0165400356398 /* APMSelectViewController.xib */; };
 		AC97828517A1C69900CA6E18 /* APMGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC97828317A1C69900CA6E18 /* APMGroupViewController.m */; };
 		AC97828617A1C69900CA6E18 /* APMGroupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC97828417A1C69900CA6E18 /* APMGroupViewController.xib */; };
 		ACB0B6E817A6C3F900611567 /* ScheduleEventsSummary.pdf in Resources */ = {isa = PBXBuildFile; fileRef = ACB0B6E717A6C3F900611567 /* ScheduleEventsSummary.pdf */; };
@@ -72,6 +76,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC0575B617B044F40086B899 /* NSStringAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStringAdditions.h; sourceTree = "<group>"; };
+		AC0575B717B044F40086B899 /* NSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSStringAdditions.m; sourceTree = "<group>"; };
+		AC0575B917B045B20086B899 /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
+		AC0575BA17B045B20086B899 /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
 		AC2026A61795F315008036D4 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		AC2026A71795F315008036D4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		AC2026A81795F315008036D4 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
@@ -105,6 +113,9 @@
 		AC95FC271796F81F00D408F1 /* TeamMemberViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMemberViewController.h; sourceTree = "<group>"; };
 		AC95FC281796F81F00D408F1 /* TeamMemberViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMemberViewController.m; sourceTree = "<group>"; };
 		AC95FC291796F81F00D408F1 /* TeamMemberViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TeamMemberViewController.xib; sourceTree = "<group>"; };
+		AC9696F517B0165400356398 /* APMSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APMSelectViewController.h; sourceTree = "<group>"; };
+		AC9696F617B0165400356398 /* APMSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APMSelectViewController.m; sourceTree = "<group>"; };
+		AC9696F717B0165400356398 /* APMSelectViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APMSelectViewController.xib; sourceTree = "<group>"; };
 		AC97828217A1C69900CA6E18 /* APMGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APMGroupViewController.h; sourceTree = "<group>"; };
 		AC97828317A1C69900CA6E18 /* APMGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APMGroupViewController.m; sourceTree = "<group>"; };
 		AC97828417A1C69900CA6E18 /* APMGroupViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APMGroupViewController.xib; sourceTree = "<group>"; };
@@ -184,6 +195,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC0575B217B044440086B899 /* Base64 */ = {
+			isa = PBXGroup;
+			children = (
+				AC0575B617B044F40086B899 /* NSStringAdditions.h */,
+				AC0575B717B044F40086B899 /* NSStringAdditions.m */,
+				AC0575B917B045B20086B899 /* NSDataAdditions.h */,
+				AC0575BA17B045B20086B899 /* NSDataAdditions.m */,
+			);
+			name = Base64;
+			sourceTree = "<group>";
+		};
 		AC97828117A1C5FF00CA6E18 /* APM */ = {
 			isa = PBXGroup;
 			children = (
@@ -204,6 +226,9 @@
 				AC90E3DD17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.h */,
 				AC90E3DE17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m */,
 				AC90E3DF17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.xib */,
+				AC9696F517B0165400356398 /* APMSelectViewController.h */,
+				AC9696F617B0165400356398 /* APMSelectViewController.m */,
+				AC9696F717B0165400356398 /* APMSelectViewController.xib */,
 			);
 			name = APM;
 			sourceTree = "<group>";
@@ -413,6 +438,7 @@
 		ACE44331179079EA00B78691 /* MHDR */ = {
 			isa = PBXGroup;
 			children = (
+				AC0575B217B044440086B899 /* Base64 */,
 				ACB0B6ED17A6C4C200611567 /* SituationManagement */,
 				ACB0B6E917A6C40400611567 /* DisasterRecovery */,
 				ACB0B6E517A6C3BB00611567 /* ChangeManagement */,
@@ -539,6 +565,7 @@
 				ACDED8A317AC2DA0000F74B7 /* APMPickerViewController.xib in Resources */,
 				AC95B39C17ADD7A4005825A6 /* LoginStoryboard.storyboard in Resources */,
 				AC7F58AD17ADE3CB00211823 /* TestViewController.xib in Resources */,
+				AC9696F917B0165400356398 /* APMSelectViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -576,6 +603,9 @@
 				ACDED8A217AC2DA0000F74B7 /* APMPickerViewController.m in Sources */,
 				AC258C9117ADDC3100B41138 /* LoginStoryboardViewController.m in Sources */,
 				AC7F58AC17ADE3CB00211823 /* TestViewController.m in Sources */,
+				AC9696F817B0165400356398 /* APMSelectViewController.m in Sources */,
+				AC0575B817B044F40086B899 /* NSStringAdditions.m in Sources */,
+				AC0575BB17B045B20086B899 /* NSDataAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

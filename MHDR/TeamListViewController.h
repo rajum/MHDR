@@ -7,9 +7,13 @@
 //
 
 #import <Foundation/Foundation.h>
+//#import "AFHTTPClient.h"
+//#import "AFHTTPRequestOperation.h"
 #import "TeamMember.h"
 #import "TeamMemberViewController.h"
 #import "TeamMemberDetailViewController.h"
+#import "NSStringAdditions.h"
+
 //#import "TeamMemberDetailStoryboard.storyboard"
 
 @interface TeamListViewController : UITableViewController
@@ -18,6 +22,8 @@
 @property (nonatomic,strong) NSMutableData *jsonData;
 @property (nonatomic,strong) NSMutableArray *teamMemberList;
 @property (nonatomic,copy) void (^dismissBlock)(void);
+
+@property (nonatomic,strong) UIActivityIndicatorView *indicator;
 
 -(void)fetchFeed;
 

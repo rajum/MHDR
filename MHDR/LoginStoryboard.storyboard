@@ -42,10 +42,10 @@
                                         </view>
                                         <color key="backgroundColor" cocoaTouchSystemColor="lightTextColor"/>
                                         <constraints>
+                                            <constraint firstItem="can-IR-S1V" firstAttribute="top" secondItem="2z0-ue-F5h" secondAttribute="top" constant="11" id="6ca-26-aj1"/>
                                             <constraint firstItem="a7f-4x-opy" firstAttribute="leading" secondItem="2z0-ue-F5h" secondAttribute="leading" constant="30" id="EjR-nI-a7f"/>
                                             <constraint firstItem="can-IR-S1V" firstAttribute="leading" secondItem="a7f-4x-opy" secondAttribute="trailing" constant="8" symbolic="YES" type="default" id="Z49-F4-QZ1"/>
                                             <constraint firstItem="can-IR-S1V" firstAttribute="baseline" secondItem="a7f-4x-opy" secondAttribute="baseline" type="default" id="jlF-6K-WOA"/>
-                                            <constraint firstItem="a7f-4x-opy" firstAttribute="centerY" secondItem="2z0-ue-F5h" secondAttribute="centerY" type="default" id="mUg-Te-JfU"/>
                                         </constraints>
                                     </tableViewCell>
                                     <tableViewCell opaque="NO" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" id="JA6-hw-0n5">
@@ -76,8 +76,8 @@
                                         <color key="backgroundColor" cocoaTouchSystemColor="lightTextColor"/>
                                         <constraints>
                                             <constraint firstItem="SER-8C-y8w" firstAttribute="leading" secondItem="JA6-hw-0n5" secondAttribute="leading" constant="30" id="5rm-wY-TiX"/>
+                                            <constraint firstItem="CKB-mP-FyR" firstAttribute="top" secondItem="JA6-hw-0n5" secondAttribute="top" constant="6" id="J05-2x-aKj"/>
                                             <constraint firstItem="CKB-mP-FyR" firstAttribute="baseline" secondItem="SER-8C-y8w" secondAttribute="baseline" type="default" id="UPv-bX-OOD"/>
-                                            <constraint firstItem="CKB-mP-FyR" firstAttribute="top" secondItem="JA6-hw-0n5" secondAttribute="top" constant="8" id="mbt-T5-h2j"/>
                                             <constraint firstItem="CKB-mP-FyR" firstAttribute="leading" secondItem="SER-8C-y8w" secondAttribute="trailing" constant="8" symbolic="YES" type="default" id="rT3-lz-G15"/>
                                         </constraints>
                                     </tableViewCell>
@@ -111,7 +111,7 @@
                                         <color key="backgroundColor" cocoaTouchSystemColor="lightTextColor"/>
                                         <constraints>
                                             <constraint firstItem="fyK-on-cZS" firstAttribute="centerX" secondItem="z6m-RR-Epv" secondAttribute="centerX" type="default" id="6Va-si-rfz"/>
-                                            <constraint firstItem="fyK-on-cZS" firstAttribute="top" secondItem="z6m-RR-Epv" secondAttribute="top" constant="5" id="Cdh-aL-IVq"/>
+                                            <constraint firstItem="fyK-on-cZS" firstAttribute="top" secondItem="z6m-RR-Epv" secondAttribute="top" constant="1" id="lHY-bZ-rjL"/>
                                         </constraints>
                                     </tableViewCell>
                                 </cells>
