@@ -18,6 +18,7 @@
 #import "ContactListViewController.h"
 #import "LoginViewController.h"
 #import "LoginStoryboardViewController.h"
+#import "DocumentLoaderViewController.h"
 
 @interface MainViewController : UITableViewController
 

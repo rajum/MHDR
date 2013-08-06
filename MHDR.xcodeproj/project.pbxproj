@@ -56,6 +56,7 @@
 		ACBCFC9717A2F385000BC639 /* ASM_TSM.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBCFC9617A2F385000BC639 /* ASM_TSM.m */; };
 		ACD0E6DA17B14BF800A850AC /* ASM_TSMStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACD0E6D917B14BF800A850AC /* ASM_TSMStoryboard.storyboard */; };
 		ACD0E6DD17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD0E6DC17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m */; };
+		ACD0E6E317B192C100A850AC /* DocumentLoaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */; };
 		ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */; };
 		ACD772F617A492EE007ADC95 /* members2.json in Resources */ = {isa = PBXBuildFile; fileRef = ACD772F517A492EE007ADC95 /* members2.json */; };
 		ACDED89D17AC0FFC000F74B7 /* login_BKGND.png in Resources */ = {isa = PBXBuildFile; fileRef = ACDED89B17AC0FFC000F74B7 /* login_BKGND.png */; };
@@ -159,6 +160,8 @@
 		ACD0E6D917B14BF800A850AC /* ASM_TSMStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ASM_TSMStoryboard.storyboard; sourceTree = "<group>"; };
 		ACD0E6DB17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASM_TSMStoryboardDetailViewController.h; sourceTree = "<group>"; };
 		ACD0E6DC17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSMStoryboardDetailViewController.m; sourceTree = "<group>"; };
+		ACD0E6E117B192C100A850AC /* DocumentLoaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentLoaderViewController.h; sourceTree = "<group>"; };
+		ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentLoaderViewController.m; sourceTree = "<group>"; };
 		ACD4530F17B08C9F00E29F8B /* OnCallStoryboardDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallStoryboardDetailViewController.h; sourceTree = "<group>"; };
 		ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallStoryboardDetailViewController.m; sourceTree = "<group>"; };
 		ACD772F517A492EE007ADC95 /* members2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members2.json; sourceTree = "<group>"; };
@@ -376,6 +379,8 @@
 				AC3DB30E17AAECDF00758E82 /* TeamMemberDetailStoryboard.storyboard */,
 				AC3DB31617AB1EAD00758E82 /* DetailViewController.h */,
 				AC3DB31717AB1EAD00758E82 /* DetailViewController.m */,
+				ACD0E6E117B192C100A850AC /* DocumentLoaderViewController.h */,
+				ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */,
 			);
 			name = "ISD Team Members";
 			sourceTree = "<group>";
@@ -626,6 +631,7 @@
 				AC0575BB17B045B20086B899 /* NSDataAdditions.m in Sources */,
 				ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */,
 				ACD0E6DD17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m in Sources */,
+				ACD0E6E317B192C100A850AC /* DocumentLoaderViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

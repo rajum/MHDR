@@ -82,11 +82,15 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    DocumentLoaderViewController *documentLoaderVC = [[DocumentLoaderViewController alloc] init];
     switch (indexPath.row) {
      
         case 0: // Interface Engine Contacts
         {
-            [self loadDocument:@"OPS_Guide_Update.doc"];
+            //[self loadDocument:@"OPS_Guide_Update.doc"];
+            
+            documentLoaderVC.appNum = 0;
+            [self.navigationController pushViewController:documentLoaderVC animated:YES];
             
             break;
 
@@ -94,16 +98,22 @@
             
         case 1: // Medical Plaza North
         {
-            [self loadDocument:@"MedicalPlazaNorth.xls"];
+            //[self loadDocument:@"MedicalPlazaNorth.xls"];
+            
+            documentLoaderVC.appNum = 1;
+            [self.navigationController pushViewController:documentLoaderVC animated:YES];
             
             break;
+
         }
             
             
         case 2: // Vendor Contact Info
         {
-
-            [self loadDocument:@"VendorContact.xls"];
+            //[self loadDocument:@"VendorContact.xls"];
+            
+            documentLoaderVC.appNum = 2;
+            [self.navigationController pushViewController:documentLoaderVC animated:YES];
             
             break;
         }

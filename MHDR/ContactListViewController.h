@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DocumentLoaderViewController.h"
 
 @interface ContactListViewController : UITableViewController
 

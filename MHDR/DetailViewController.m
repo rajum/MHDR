@@ -43,9 +43,33 @@
     self.homePhoneLabelField.text = self.member.HomePhone;
     
     self.navigationItem.title = @"Info";
+    
+    UITapGestureRecognizer *phoneGR = [[UITapGestureRecognizer alloc]
+                                       initWithTarget:self
+                                       action:@selector(phoneTapped)];
+    //self.cellPhoneLabelField.userInteractionEnabled = YES;
+    //[self.cellPhoneLabelField addGestureRecognizer:phoneGR];
+    
+    self.officePhoneLabelField.userInteractionEnabled = YES;
+    [self.officePhoneLabelField addGestureRecognizer:phoneGR];
+    
+    //self.homePhoneLabelField.userInteractionEnabled = YES;
+    //[self.homePhoneLabelField addGestureRecognizer:phoneGR];
 
 
 
+}
+
+- (void)phoneTapped
+{
+    UIDevice *device = [UIDevice currentDevice];
+    if ([[device model] isEqualToString:@"iPhone"] ) {
+        NSString *officePhone = [@"telprompt://" stringByAppendingString:self.officePhoneLabelField.text];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:officePhone]];
+    } else {
+        UIAlertView *notPermitted=[[UIAlertView alloc] initWithTitle:@"Alert" message:@"Your device doesn't support this feature." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+        [notPermitted show];
+    }
 }
 
 - (void)didReceiveMemoryWarning

@@ -152,6 +152,7 @@
 {
     // Navigation logic may go here. Create and push another view controller.
     //NSString *isdDRInfo = [self.isdDRList objectAtIndex:indexPath.row];
+    DocumentLoaderViewController *documentLoaderVC = [[DocumentLoaderViewController alloc] init];
     switch (indexPath.row) {
         case 0: // Application Portfolio Manager
         {
@@ -182,14 +183,20 @@
 
         case 3: // Change Management
         {
-            [self loadDocument:@"ScheduleEventsSummary.pdf"];
+            
+            documentLoaderVC.appNum = 3;
+            [self.navigationController pushViewController:documentLoaderVC animated:YES];
+            
+            //[self loadDocument:@"ScheduleEventsSummary.pdf"];
             
             break;
         }
             
         case 4: // Disaster Recovery Plan
         {
-            [self loadDocument:@"DisasterRecovery.pdf"];
+            documentLoaderVC.appNum = 4;
+            [self.navigationController pushViewController:documentLoaderVC animated:YES];
+            //[self loadDocument:@"DisasterRecovery.pdf"];
             
             break;
         }
