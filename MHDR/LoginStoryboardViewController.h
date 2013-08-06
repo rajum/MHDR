@@ -9,9 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "MainViewController.h"
 
-@interface LoginStoryboardViewController : UITableViewController
+@interface LoginStoryboardViewController : UITableViewController <UITextFieldDelegate>
 
 @property (nonatomic,strong) UIImageView *imgView;
+@property (weak, nonatomic) IBOutlet UITextField *usernameTextField;
+@property (weak, nonatomic) IBOutlet UITextField *pwdTextField;
 
 -(IBAction)authenticate:(id)sender;
 

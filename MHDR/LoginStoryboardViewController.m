@@ -36,7 +36,9 @@
     [self.tableView setContentInset:UIEdgeInsetsMake(140,0,0,0)];
     self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
     self.tableView.separatorColor = [UIColor clearColor];
-    
+    [self.view endEditing:true];
+//    [self.usernameTextField resignFirstResponder];
+//    [self.pwdTextField resignFirstResponder];
 //    self.imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"login_BKGND"]];
 //    self.imgView.frame = self.view.bounds;
 //    self.imgView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
@@ -137,5 +139,21 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+- (BOOL)textFieldShouldBeginEditing:(UITextField *)textField
+{
+    /*
+    [self.usernameTextField resignFirstResponder];
+    [self.pwdTextField resignFirstResponder];
+    */
+     return YES;
+}
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+    [self.usernameTextField resignFirstResponder];
+    [self.pwdTextField resignFirstResponder];
+    return NO;
+}
 
 @end

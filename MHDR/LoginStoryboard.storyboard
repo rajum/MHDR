@@ -36,6 +36,9 @@
                                                     </constraints>
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits"/>
+                                                    <connections>
+                                                        <outlet property="delegate" destination="g8l-zt-m8j" id="Tp6-AP-pMk"/>
+                                                    </connections>
                                                 </textField>
                                             </subviews>
                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -69,6 +72,9 @@
                                                     </constraints>
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits"/>
+                                                    <connections>
+                                                        <outlet property="delegate" destination="g8l-zt-m8j" id="T5f-53-Pwk"/>
+                                                    </connections>
                                                 </textField>
                                             </subviews>
                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -122,6 +128,10 @@
                             <outlet property="delegate" destination="g8l-zt-m8j" id="Lc8-8m-9tq"/>
                         </connections>
                     </tableView>
+                    <connections>
+                        <outlet property="pwdTextField" destination="CKB-mP-FyR" id="Opb-7P-xMz"/>
+                        <outlet property="usernameTextField" destination="can-IR-S1V" id="fHC-sW-7aj"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kJC-6E-RBz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -133,6 +143,8 @@
             <source key="sourceIdentifier" type="project" relativePath="./Classes/LoginStoryboardViewController.h"/>
             <relationships>
                 <relationship kind="action" name="authenticate:"/>
+                <relationship kind="outlet" name="pwdTextField" candidateClass="UITextField"/>
+                <relationship kind="outlet" name="usernameTextField" candidateClass="UITextField"/>
             </relationships>
         </class>
         <class className="NSLayoutConstraint" superclassName="NSObject">

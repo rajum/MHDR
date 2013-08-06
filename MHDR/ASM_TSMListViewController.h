@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "ASM_TSMViewController.h"
 #import "ASM_TSM.h"
+#import "ASM_TSMStoryboardDetailViewController.h"
 
 @interface ASM_TSMListViewController : UITableViewController
 

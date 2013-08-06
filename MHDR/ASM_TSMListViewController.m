@@ -149,16 +149,24 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    /*
     ASM_TSMViewController *asmTsmVC = [[ASM_TSMViewController alloc] init];
     
-    //TeamMember *teamMember = [self.teamMemberList objectAtIndex:indexPath.row];
     ASM_TSM *asmTsm = [self.asmTsmList objectAtIndex:indexPath.row];
     
-    //Pass selected teamMember item to TeamMemberViewController object
     asmTsmVC.asmTsm = asmTsm;
     asmTsmVC.navigationItem.title = asmTsm.OnCallPerson;
     
     [self.navigationController pushViewController:asmTsmVC animated:YES];
+    */
+    
+    UIStoryboard *detailStoryboard = [UIStoryboard storyboardWithName:@"ASM_TSMStoryboard" bundle:nil];
+    ASM_TSMStoryboardDetailViewController *detailStoryboardViewController = [detailStoryboard instantiateInitialViewController];
+    
+    ASM_TSM *asmTSMMember = [self.asmTsmList objectAtIndex:indexPath.row];
+    
+    detailStoryboardViewController.asmTSM = asmTSMMember;
+    [self.navigationController pushViewController:detailStoryboardViewController animated:YES];
 }
 
     
