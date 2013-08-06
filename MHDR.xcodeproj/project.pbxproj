@@ -22,6 +22,7 @@
 		AC7F58AD17ADE3CB00211823 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC7F58AB17ADE3CB00211823 /* TestViewController.xib */; };
 		AC90E3E017A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC90E3DE17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m */; };
 		AC90E3E117A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC90E3DF17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.xib */; };
+		AC94706117B0884E00414FAF /* OnCallStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC94706017B0884E00414FAF /* OnCallStoryboard.storyboard */; };
 		AC9548DE17A81C2B0038DC8C /* oncall2.json in Resources */ = {isa = PBXBuildFile; fileRef = AC9548DD17A81C2B0038DC8C /* oncall2.json */; };
 		AC9548E717A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9548E517A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m */; };
 		AC9548E817A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9548E617A8200E0038DC8C /* OnCallSolSegmentPickerViewController.xib */; };
@@ -53,6 +54,7 @@
 		ACBCFC9117A2EFE0000BC639 /* ASM_TSMViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACBCFC8F17A2EFE0000BC639 /* ASM_TSMViewController.xib */; };
 		ACBCFC9417A2F009000BC639 /* ASM_TSMListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBCFC9317A2F009000BC639 /* ASM_TSMListViewController.m */; };
 		ACBCFC9717A2F385000BC639 /* ASM_TSM.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBCFC9617A2F385000BC639 /* ASM_TSM.m */; };
+		ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */; };
 		ACD772F617A492EE007ADC95 /* members2.json in Resources */ = {isa = PBXBuildFile; fileRef = ACD772F517A492EE007ADC95 /* members2.json */; };
 		ACDED89D17AC0FFC000F74B7 /* login_BKGND.png in Resources */ = {isa = PBXBuildFile; fileRef = ACDED89B17AC0FFC000F74B7 /* login_BKGND.png */; };
 		ACDED89E17AC0FFC000F74B7 /* main_BKGND.png in Resources */ = {isa = PBXBuildFile; fileRef = ACDED89C17AC0FFC000F74B7 /* main_BKGND.png */; };
@@ -100,6 +102,7 @@
 		AC90E3DD17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APMSegmentOwnerPickerViewController.h; sourceTree = "<group>"; };
 		AC90E3DE17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APMSegmentOwnerPickerViewController.m; sourceTree = "<group>"; };
 		AC90E3DF17A96E9F002FEAAF /* APMSegmentOwnerPickerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APMSegmentOwnerPickerViewController.xib; sourceTree = "<group>"; };
+		AC94706017B0884E00414FAF /* OnCallStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = OnCallStoryboard.storyboard; sourceTree = "<group>"; };
 		AC9548DD17A81C2B0038DC8C /* oncall2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = oncall2.json; sourceTree = "<group>"; };
 		AC9548E417A8200E0038DC8C /* OnCallSolSegmentPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallSolSegmentPickerViewController.h; sourceTree = "<group>"; };
 		AC9548E517A8200E0038DC8C /* OnCallSolSegmentPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallSolSegmentPickerViewController.m; sourceTree = "<group>"; };
@@ -151,6 +154,8 @@
 		ACBCFC9317A2F009000BC639 /* ASM_TSMListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSMListViewController.m; sourceTree = "<group>"; };
 		ACBCFC9517A2F385000BC639 /* ASM_TSM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASM_TSM.h; sourceTree = "<group>"; };
 		ACBCFC9617A2F385000BC639 /* ASM_TSM.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSM.m; sourceTree = "<group>"; };
+		ACD4530F17B08C9F00E29F8B /* OnCallStoryboardDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallStoryboardDetailViewController.h; sourceTree = "<group>"; };
+		ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallStoryboardDetailViewController.m; sourceTree = "<group>"; };
 		ACD772F517A492EE007ADC95 /* members2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members2.json; sourceTree = "<group>"; };
 		ACDED89B17AC0FFC000F74B7 /* login_BKGND.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login_BKGND.png; sourceTree = "<group>"; };
 		ACDED89C17AC0FFC000F74B7 /* main_BKGND.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main_BKGND.png; sourceTree = "<group>"; };
@@ -323,6 +328,9 @@
 				AC9548F117A85E000038DC8C /* OnCallDetailViewController.h */,
 				AC9548F217A85E000038DC8C /* OnCallDetailViewController.m */,
 				AC9548F317A85E010038DC8C /* OnCallDetailViewController.xib */,
+				AC94706017B0884E00414FAF /* OnCallStoryboard.storyboard */,
+				ACD4530F17B08C9F00E29F8B /* OnCallStoryboardDetailViewController.h */,
+				ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */,
 			);
 			name = OnCall;
 			path = ..;
@@ -566,6 +574,7 @@
 				AC95B39C17ADD7A4005825A6 /* LoginStoryboard.storyboard in Resources */,
 				AC7F58AD17ADE3CB00211823 /* TestViewController.xib in Resources */,
 				AC9696F917B0165400356398 /* APMSelectViewController.xib in Resources */,
+				AC94706117B0884E00414FAF /* OnCallStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -606,6 +615,7 @@
 				AC9696F817B0165400356398 /* APMSelectViewController.m in Sources */,
 				AC0575B817B044F40086B899 /* NSStringAdditions.m in Sources */,
 				AC0575BB17B045B20086B899 /* NSDataAdditions.m in Sources */,
+				ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

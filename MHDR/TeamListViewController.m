@@ -7,7 +7,7 @@
 //
 
 #import "TeamListViewController.h"
-#import "DetailViewController.h"
+
 
 @interface TeamListViewController() <NSURLConnectionDataDelegate>
 
@@ -29,6 +29,27 @@
         self.navigationItem.title = @"Member List";
         
         /*
+        _hudView = [[UIView alloc] initWithFrame:CGRectMake(75, 155, 170, 170)];
+        _hudView.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.5];
+        _hudView.clipsToBounds = YES;
+        _hudView.layer.cornerRadius = 10.0;
+        
+        _activityIndicatorView = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
+        _activityIndicatorView.frame = CGRectMake(65, 40, _activityIndicatorView.bounds.size.width, _activityIndicatorView.bounds.size.height);
+        [_hudView addSubview:_activityIndicatorView];
+        [_activityIndicatorView startAnimating];
+        
+        _captionLabel = [[UILabel alloc] initWithFrame:CGRectMake(20, 115, 130, 22)];
+        _captionLabel.backgroundColor = [UIColor clearColor];
+        _captionLabel.textColor = [UIColor whiteColor];
+        _captionLabel.adjustsFontSizeToFitWidth = YES;
+        _captionLabel.textAlignment = UITextAlignmentCenter;
+        _captionLabel.text = @"Loading...";
+        [_hudView addSubview:_captionLabel];
+        
+        [self addSubview:_hudView];
+        */
+        /*
         UIBarButtonItem *cancelItem = [[UIBarButtonItem alloc]
                                        initWithBarButtonSystemItem:UIBarButtonSystemItemCancel target:self action:@selector(cancel:)];
         [[self navigationItem] setLeftBarButtonItem:cancelItem];
@@ -49,6 +70,7 @@
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     
     self.indicator = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
+    
     [self.tableView addSubview:self.indicator];
     [self.indicator startAnimating];
     self.indicator.activityIndicatorViewStyle = UIActivityIndicatorViewStyleGray;
@@ -102,6 +124,10 @@
     //[self.tableView reloadData];
     
     [self displayIndexList];
+    
+    [self.indicator stopAnimating];
+    
+    [self.indicator removeFromSuperview];
 
 }
 
@@ -287,10 +313,12 @@
 - (void)connectionDidFinishLoading:(NSURLConnection *)connection
 {
     // This is just to check that we are getting the JSON Data
+    /*
     NSString *jsonCheck = [[NSString alloc] initWithData:self.jsonData
                                                 encoding:NSUTF8StringEncoding];
     
     NSLog(@"%@", jsonCheck);
+    */
     
     NSDictionary *jsonDictionaryObject = [NSJSONSerialization JSONObjectWithData:self.jsonData
                                                                options:0
@@ -377,7 +405,9 @@
     self.jsonData = nil;
     
     // Get the description of the error and alert the user
+    /*
     NSString *errString = [error localizedDescription];
+    
     
     UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"Error"
                                                         message:errString delegate:nil
@@ -385,6 +415,8 @@
                                               otherButtonTitles:nil, nil];
     
     [alertView show];
+    */
+    [self fetchFromJsonFile];
     
 }
 

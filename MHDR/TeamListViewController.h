@@ -12,6 +12,7 @@
 #import "TeamMember.h"
 #import "TeamMemberViewController.h"
 #import "TeamMemberDetailViewController.h"
+#import "DetailViewController.h"
 #import "NSStringAdditions.h"
 
 //#import "TeamMemberDetailStoryboard.storyboard"
@@ -25,6 +26,6 @@
 
 @property (nonatomic,strong) UIActivityIndicatorView *indicator;
 
--(void)fetchFeed;
+//-(void)fetchFeed;
 
 @end

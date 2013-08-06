@@ -145,11 +145,11 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    UITableViewCell *tvCell = [tableView dequeueReusableCellWithIdentifier:@"TeamMemberViewCell"];
+    UITableViewCell *tvCell = [tableView dequeueReusableCellWithIdentifier:@"OnCallCell"];
     
     if(!tvCell)
     {
-        tvCell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"TeamMemberViewCell"];
+        tvCell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"OnCallCell"];
     }
     
     OnCall *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
@@ -167,6 +167,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    /*
     OnCallDetailViewController *teamMemberVC = [[OnCallDetailViewController alloc] init];
     
     OnCall *teamMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
@@ -176,6 +177,15 @@
     teamMemberVC.navigationItem.title = teamMember.OnCallPerson;
     
     [self.navigationController pushViewController:teamMemberVC animated:YES];
+    */
+    
+    UIStoryboard *detailStoryboard = [UIStoryboard storyboardWithName:@"OnCallStoryboard" bundle:nil];
+    OnCallStoryboardDetailViewController *detailStoryboardViewController = [detailStoryboard instantiateInitialViewController];
+    
+    OnCall *onCallMember = [[self.teamMemberList objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
+    
+    detailStoryboardViewController.onCall = onCallMember;
+    [self.navigationController pushViewController:detailStoryboardViewController animated:YES];
 }
 
 - (void)displayIndexList

@@ -265,7 +265,7 @@
     //button.frame = CGRectMake(80, 210, 160, 40);
     
     [button setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
-    button.frame = CGRectMake(0, 0, 160, 40);
+    button.frame = CGRectMake(5, 5, 100, 30);
 
     
     [button addTarget:self action:@selector(close:) forControlEvents:UIControlEventTouchUpInside];
