@@ -57,6 +57,7 @@
 		ACD0E6DA17B14BF800A850AC /* ASM_TSMStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACD0E6D917B14BF800A850AC /* ASM_TSMStoryboard.storyboard */; };
 		ACD0E6DD17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD0E6DC17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m */; };
 		ACD0E6E317B192C100A850AC /* DocumentLoaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */; };
+		ACD0E6E817B19E1600A850AC /* TeamListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD0E6E717B19E1600A850AC /* TeamListViewController.m */; };
 		ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */; };
 		ACD772F617A492EE007ADC95 /* members2.json in Resources */ = {isa = PBXBuildFile; fileRef = ACD772F517A492EE007ADC95 /* members2.json */; };
 		ACDED89D17AC0FFC000F74B7 /* login_BKGND.png in Resources */ = {isa = PBXBuildFile; fileRef = ACDED89B17AC0FFC000F74B7 /* login_BKGND.png */; };
@@ -72,7 +73,6 @@
 		ACE4433E179079EA00B78691 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE4433D179079EA00B78691 /* Default.png */; };
 		ACE44340179079EA00B78691 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE4433F179079EA00B78691 /* Default@2x.png */; };
 		ACE44342179079EA00B78691 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE44341179079EA00B78691 /* Default-568h@2x.png */; };
-		ACE4434D17907B6500B78691 /* TeamListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434C17907B6500B78691 /* TeamListViewController.m */; };
 		ACE443501790834900B78691 /* TeamMember.m in Sources */ = {isa = PBXBuildFile; fileRef = ACE4434F1790834900B78691 /* TeamMember.m */; };
 		ACF606A217A70CBA0030A73D /* OPS_Guide_Update.doc in Resources */ = {isa = PBXBuildFile; fileRef = ACF606A117A70CBA0030A73D /* OPS_Guide_Update.doc */; };
 		ACF606A317A70D330030A73D /* VendorContact.xls in Resources */ = {isa = PBXBuildFile; fileRef = ACF6069D17A701680030A73D /* VendorContact.xls */; };
@@ -162,6 +162,8 @@
 		ACD0E6DC17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASM_TSMStoryboardDetailViewController.m; sourceTree = "<group>"; };
 		ACD0E6E117B192C100A850AC /* DocumentLoaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentLoaderViewController.h; sourceTree = "<group>"; };
 		ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentLoaderViewController.m; sourceTree = "<group>"; };
+		ACD0E6E617B19E1600A850AC /* TeamListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamListViewController.h; sourceTree = "<group>"; };
+		ACD0E6E717B19E1600A850AC /* TeamListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamListViewController.m; sourceTree = "<group>"; };
 		ACD4530F17B08C9F00E29F8B /* OnCallStoryboardDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnCallStoryboardDetailViewController.h; sourceTree = "<group>"; };
 		ACD4531017B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnCallStoryboardDetailViewController.m; sourceTree = "<group>"; };
 		ACD772F517A492EE007ADC95 /* members2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = members2.json; sourceTree = "<group>"; };
@@ -183,8 +185,6 @@
 		ACE4433D179079EA00B78691 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		ACE4433F179079EA00B78691 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		ACE44341179079EA00B78691 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		ACE4434B17907B6500B78691 /* TeamListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamListViewController.h; sourceTree = "<group>"; };
-		ACE4434C17907B6500B78691 /* TeamListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamListViewController.m; sourceTree = "<group>"; };
 		ACE4434E1790834900B78691 /* TeamMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamMember.h; sourceTree = "<group>"; };
 		ACE4434F1790834900B78691 /* TeamMember.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamMember.m; sourceTree = "<group>"; };
 		ACE443511790847300B78691 /* TeamJSONObjectDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TeamJSONObjectDelegate.h; sourceTree = "<group>"; };
@@ -366,8 +366,6 @@
 			children = (
 				ACD772F417A492D2007ADC95 /* Supporting Files */,
 				ACE443511790847300B78691 /* TeamJSONObjectDelegate.h */,
-				ACE4434B17907B6500B78691 /* TeamListViewController.h */,
-				ACE4434C17907B6500B78691 /* TeamListViewController.m */,
 				ACE4434E1790834900B78691 /* TeamMember.h */,
 				ACE4434F1790834900B78691 /* TeamMember.m */,
 				AC95FC271796F81F00D408F1 /* TeamMemberViewController.h */,
@@ -381,6 +379,8 @@
 				AC3DB31717AB1EAD00758E82 /* DetailViewController.m */,
 				ACD0E6E117B192C100A850AC /* DocumentLoaderViewController.h */,
 				ACD0E6E217B192C100A850AC /* DocumentLoaderViewController.m */,
+				ACD0E6E617B19E1600A850AC /* TeamListViewController.h */,
+				ACD0E6E717B19E1600A850AC /* TeamListViewController.m */,
 			);
 			name = "ISD Team Members";
 			sourceTree = "<group>";
@@ -601,7 +601,6 @@
 			files = (
 				ACE44338179079EA00B78691 /* main.m in Sources */,
 				ACE4433C179079EA00B78691 /* mhAppDelegate.m in Sources */,
-				ACE4434D17907B6500B78691 /* TeamListViewController.m in Sources */,
 				ACE443501790834900B78691 /* TeamMember.m in Sources */,
 				AC2026A91795F315008036D4 /* LoginViewController.m in Sources */,
 				AC95FC2A1796F81F00D408F1 /* TeamMemberViewController.m in Sources */,
@@ -632,6 +631,7 @@
 				ACD4531117B08C9F00E29F8B /* OnCallStoryboardDetailViewController.m in Sources */,
 				ACD0E6DD17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m in Sources */,
 				ACD0E6E317B192C100A850AC /* DocumentLoaderViewController.m in Sources */,
+				ACD0E6E817B19E1600A850AC /* TeamListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

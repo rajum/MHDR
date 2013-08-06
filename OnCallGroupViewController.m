@@ -97,7 +97,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-     OnCallListViewController *detailViewController = [[OnCallListViewController alloc] init];
+     //OnCallListViewController *detailViewController = [[OnCallListViewController alloc] init];
      //[[self.navigationController pushViewController:detailViewController animated:YES];
     //[self.tabBarController.]
 }

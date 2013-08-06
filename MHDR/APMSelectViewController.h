@@ -14,5 +14,5 @@
 @property (nonatomic,strong) NSArray *solSegmentList;
 @property (nonatomic,strong) NSArray *segOwnerList;
 @property (nonatomic,copy) void (^dismissBlock)(void);
-- (IBAction)search:(id)sender;
+//- (IBAction)search:(id)sender;
 @end
