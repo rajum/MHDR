@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AC0575B817B044F40086B899 /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0575B717B044F40086B899 /* NSStringAdditions.m */; };
 		AC0575BB17B045B20086B899 /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0575BA17B045B20086B899 /* NSDataAdditions.m */; };
+		AC15685B187DEBDB00B12854 /* APMSolutionSegmentListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC15685A187DEBDB00B12854 /* APMSolutionSegmentListViewController.m */; };
 		AC2026A91795F315008036D4 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2026A71795F315008036D4 /* LoginViewController.m */; };
 		AC2026AA1795F315008036D4 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2026A81795F315008036D4 /* LoginViewController.xib */; };
 		AC258C9117ADDC3100B41138 /* LoginStoryboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC258C9017ADDC3100B41138 /* LoginStoryboardViewController.m */; };
@@ -85,6 +86,8 @@
 		AC0575B717B044F40086B899 /* NSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSStringAdditions.m; sourceTree = "<group>"; };
 		AC0575B917B045B20086B899 /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
 		AC0575BA17B045B20086B899 /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
+		AC156859187DEBDB00B12854 /* APMSolutionSegmentListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APMSolutionSegmentListViewController.h; sourceTree = "<group>"; };
+		AC15685A187DEBDB00B12854 /* APMSolutionSegmentListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APMSolutionSegmentListViewController.m; sourceTree = "<group>"; };
 		AC2026A61795F315008036D4 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		AC2026A71795F315008036D4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		AC2026A81795F315008036D4 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
@@ -242,6 +245,8 @@
 				AC9696F517B0165400356398 /* APMSelectViewController.h */,
 				AC9696F617B0165400356398 /* APMSelectViewController.m */,
 				AC9696F717B0165400356398 /* APMSelectViewController.xib */,
+				AC156859187DEBDB00B12854 /* APMSolutionSegmentListViewController.h */,
+				AC15685A187DEBDB00B12854 /* APMSolutionSegmentListViewController.m */,
 			);
 			name = APM;
 			sourceTree = "<group>";
@@ -632,6 +637,7 @@
 				ACD0E6DD17B14EF300A850AC /* ASM_TSMStoryboardDetailViewController.m in Sources */,
 				ACD0E6E317B192C100A850AC /* DocumentLoaderViewController.m in Sources */,
 				ACD0E6E817B19E1600A850AC /* TeamListViewController.m in Sources */,
+				AC15685B187DEBDB00B12854 /* APMSolutionSegmentListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

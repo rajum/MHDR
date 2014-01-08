@@ -156,8 +156,19 @@
     switch (indexPath.row) {
         case 0: // Application Portfolio Manager
         {
-            APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
-            [self.navigationController pushViewController:apmGvc animated:YES];
+            //APMGroupViewController *apmGvc = [[APMGroupViewController alloc] init];
+            //[self.navigationController pushViewController:apmGvc animated:YES];
+            APMSolutionSegmentListViewController *apmSSLvc = [[APMSolutionSegmentListViewController alloc] init];
+            [self.navigationController pushViewController:apmSSLvc animated:YES];
+            
+            
+            //APMListViewController *apmLvc = [[APMListViewController alloc] init];
+            //[self.navigationController pushViewController:apmLvc animated:YES];
+            
+            
+            
+            
+            
             
             //APMPickerViewController *apmPvc = [[APMPickerViewController alloc] init];
             //[self.navigationController pushViewController:apmPvc animated:YES];

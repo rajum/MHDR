@@ -20,6 +20,9 @@
 #import "LoginStoryboardViewController.h"
 #import "DocumentLoaderViewController.h"
 
+
+#import "APMSolutionSegmentListViewController.h"
+
 @interface MainViewController : UITableViewController
 
 @property (nonatomic,strong) UIImageView *imgView;
